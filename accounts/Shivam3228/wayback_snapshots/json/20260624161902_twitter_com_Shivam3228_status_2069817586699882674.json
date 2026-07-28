@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2069817586699882674",
+    "created_at": "2026-06-24T16:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069817586699882674"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mark67358226/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/mark67358226/status/2069816894132302266",
+          "start": 8,
+          "url": "https://t.co/KfjJNBDNdA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069817586699882674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069816894132302266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢呀𓆏🥰🫳🏻 https://t.co/KfjJNBDNdA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2069817586699882674",
+        "created_at": "2026-06-24T16:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069817586699882674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mark67358226/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/mark67358226/status/2069816894132302266",
+              "start": 8,
+              "url": "https://t.co/KfjJNBDNdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069817586699882674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069816894132302266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢呀𓆏🥰🫳🏻 https://t.co/KfjJNBDNdA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519649212736049152",
+        "conversation_id": "2069093909016539312",
+        "created_at": "2026-06-24T16:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069816894132302266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069816894132302266",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069093909016539312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 是6月23日嗎…記住了。本來還想問你一下呢但不敢發私信，來遲了…\n生日快樂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "【寻回互fo】\n📍广州/🇯🇵/12-09-17/IB牛马国际生。\n精神病碎碎念清水推 电子宠物\n已上岸躺尸中zz🥰（剧烈啃英语。）\n热爱互动但被带口球……🚬\n小号@Paramjitt\n牛马💊@idris21000\n负能碎碎念@yumumu_msknb\n欧金金@niconekkod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "Paramjitt"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "idris21000"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2068570914644779519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068272596580503552/tfkvYV74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 452,
+          "like_count": 1834,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 978
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體 簡體🉑 | 是男孩子 |日語🇯🇵 朝鮮語🇰🇷也會一點 | 友跨+LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（求你們私信找我聊天吧！）僅交友不約！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn",
+                "end": 23,
+                "expanded_url": "http://dreamail.cn",
+                "start": 0,
+                "url": "https://t.co/UrGAmTGSj9"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2049133758931161088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 1324,
+          "like_count": 21376,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 4648
+        },
+        "url": "https://t.co/UrGAmTGSj9",
+        "username": "Mark67358226",
+        "verified": false
+      }
+    ]
+  }
+}

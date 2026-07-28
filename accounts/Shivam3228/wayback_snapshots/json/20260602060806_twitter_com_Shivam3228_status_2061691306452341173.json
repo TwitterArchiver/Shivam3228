@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061691287515136000"
+      ]
+    },
+    "author_id": "1829867271592026112",
+    "conversation_id": "2061691306452341173",
+    "created_at": "2026-06-02T06:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T07:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061691306452341173"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O3spzmM9Hd",
+          "end": 28,
+          "expanded_url": "https://x.com/Shivam3228/status/2061691306452341173/photo/1",
+          "media_key": "3_2061691287515136000",
+          "start": 5,
+          "url": "https://t.co/O3spzmM9Hd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061691306452341173",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "AI写的 https://t.co/O3spzmM9Hd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_2061691287515136000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyZTXzbgAADgLo.png",
+        "width": 1038
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061691287515136000"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "conversation_id": "2061691306452341173",
+        "created_at": "2026-06-02T06:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061691306452341173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3spzmM9Hd",
+              "end": 28,
+              "expanded_url": "https://x.com/Shivam3228/status/2061691306452341173/photo/1",
+              "media_key": "3_2061691287515136000",
+              "start": 5,
+              "url": "https://t.co/O3spzmM9Hd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061691306452341173",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "AI写的 https://t.co/O3spzmM9Hd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "在线时间15:00～5:00\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2060380775804268560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 348,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 488
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

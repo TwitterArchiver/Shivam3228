@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2070367514450883019",
+    "created_at": "2026-06-26T04:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T05:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070367514450883019"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cabrero_na6616…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/cabrero_na66160/status/2070226887243362322",
+          "start": 4,
+          "url": "https://t.co/sac8rSUYTK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070367514450883019",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070226887243362322",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最骚。 https://t.co/sac8rSUYTK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2070367514450883019",
+        "created_at": "2026-06-26T04:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070367514450883019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cabrero_na6616…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/cabrero_na66160/status/2070226887243362322",
+              "start": 4,
+              "url": "https://t.co/sac8rSUYTK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070367514450883019",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070226887243362322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最骚。 https://t.co/sac8rSUYTK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723559131846705152",
+        "conversation_id": "2070208420490453107",
+        "created_at": "2026-06-25T19:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T20:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070226887243362322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070226887243362322",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070208420490453107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 后面好多花子君 馋了🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "【寻回互fo】\n📍广州/🇯🇵/12-09-17/职高预备生\n精神病碎碎念清水推 电子宠物\n已上岸躺尸中zz🥰（剧烈啃英语。）\n热爱互动但被带口球……🚬\n小号@Paramjitt\n牛马💊@Melody_0v0_\n负能碎碎念@yumumu_msknb\n欧金金@niconekkod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 78,
+                "username": "Paramjitt"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Melody_0v0_"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2068570914644779519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068272596580503552/tfkvYV74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 455,
+          "like_count": 1941,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 1025
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T04:31:45.000Z",
+        "description": "夏色祭单推人||不建政不搞黄 一个人在那幻想||pr戒断成功wok\n//我是小貘，一只食梦貘\n让我吃掉你的噩梦，给你一个香香软软的美梦～",
+        "id": "1723559131846705152",
+        "name": "小貘妥妥的🏮🏮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911606973637828608/rg1-sH-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 722,
+          "like_count": 15015,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1430
+        },
+        "url": "",
+        "username": "cabrero_na66160",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2060801445042274784",
+    "created_at": "2026-05-31T05:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060960025074688303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647229461769891842",
+          "start": 0,
+          "username": "DrilL019"
+        },
+        {
+          "end": 20,
+          "id": "1123094958557188096",
+          "start": 10,
+          "username": "z71529284"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060960025074688303",
+    "in_reply_to_user_id": "1647229461769891842",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060895383925174636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrilL019 @z71529284 🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2060801445042274784",
+        "created_at": "2026-05-31T05:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060960025074688303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            },
+            {
+              "end": 20,
+              "id": "1123094958557188096",
+              "start": 10,
+              "username": "z71529284"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060960025074688303",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060895383925174636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrilL019 @z71529284 🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647229461769891842",
+        "conversation_id": "2060801445042274784",
+        "created_at": "2026-05-31T01:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060895383925174636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            },
+            {
+              "end": 22,
+              "id": "1123094958557188096",
+              "start": 12,
+              "username": "z71529284"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060895383925174636",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060830037415518719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 @z71529284 能有什么债（思考\n孩子不会欠父母什么 父母欠的孩子也没有还的义务"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "继续搞我吧\n共号@Melody_0v0_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Melody_0v0_"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2060380775804268560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 297,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 304
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "对不起对不起对不起对不起对不起\n对不起对不起对不起对不起对不起对不起对不起对不起对不起对不起对不起对不起对不起对不起对不起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "请给我钱🥺⬇️",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2032440558011203726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 1185,
+          "like_count": 16881,
+          "listed_count": 1,
+          "media_count": 814,
+          "tweet_count": 5821
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-30T05:21:18.000Z",
+        "description": "被动型/无趣/喜欢乱想/FPS又菜又爱玩选手/单机爱好者/爱看动漫/半烤P/25时与mmj团推",
+        "id": "1123094958557188096",
+        "name": "秋の翎",
+        "pinned_tweet_id": "2060726090117591432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1123095384404840454/pk-qJI9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 240,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 385
+        },
+        "username": "z71529284",
+        "verified": false
+      }
+    ]
+  }
+}

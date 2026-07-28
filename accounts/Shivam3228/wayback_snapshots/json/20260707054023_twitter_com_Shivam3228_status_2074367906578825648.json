@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2074331071408418867",
+    "created_at": "2026-07-07T05:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T06:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074367906578825648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956958284310818816",
+          "start": 0,
+          "username": "qian67068"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074367906578825648",
+    "in_reply_to_user_id": "1956958284310818816",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074362507943452754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian67068 🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2074331071408418867",
+        "created_at": "2026-07-07T05:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074367906578825648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956958284310818816",
+              "start": 0,
+              "username": "qian67068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074367906578825648",
+        "in_reply_to_user_id": "1956958284310818816",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074362507943452754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian67068 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956958284310818816",
+        "conversation_id": "2074331071408418867",
+        "created_at": "2026-07-07T05:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074362507943452754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074362507943452754",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074331071408418867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 这个人有问题啊，怎么到处送蓝v……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "休眠中，，移步小号@Paramjitt\n【寻回推u】\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n生活在互联网！查成分回fo/我是低龄糖逼大傻福，十分抱歉！\n宇宙级严重失眠 -12现役初中生\n牛马💊@AminoXx_killer \n负能碎碎念@yumumu_msknb\n欧金金@niconekkod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Paramjitt"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 143,
+                "start": 132,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/QJAsBWnwZC"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2068570914644779519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068272596580503552/tfkvYV74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 479,
+          "like_count": 2152,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1142
+        },
+        "url": "https://t.co/QJAsBWnwZC",
+        "username": "Shivam3228",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-17T05:56:38.000Z",
+        "description": "mtx | 泛性恋 | 不含糖 | 精神良好 | 称呼小千就好💛🤍💜🖤sub 称他/她均可 想互fo 心理委员喵（虽然满脑子黄色废料）分身@qian68069\n\n（攻受可切的发情触手妖怪哦）\n\n学习🎹ing，喜欢sakanaction，喜欢研究各种数码产品和电子软硬件👍身高1.77体重55kg，好虚弱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "qian68069"
+              }
+            ]
+          }
+        },
+        "id": "1956958284310818816",
+        "name": "🏳️‍⚧️Qian触手小千🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074354037261238272/Kq0L5YWR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 495,
+          "like_count": 1664,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 619
+        },
+        "url": "",
+        "username": "qian67068",
+        "verified": false
+      }
+    ]
+  }
+}

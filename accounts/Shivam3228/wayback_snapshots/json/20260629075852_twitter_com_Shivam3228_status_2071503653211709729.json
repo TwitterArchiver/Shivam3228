@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071480193068523520"
+      ],
+      "media_source_tweet_id": [
+        "2071480213780013397"
+      ]
+    },
+    "author_id": "1829867271592026112",
+    "conversation_id": "2071503653211709729",
+    "created_at": "2026-06-29T07:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T08:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071503653211709729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2070298524185772032",
+          "start": 3,
+          "username": "b1ng333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bmGBVUFHXM",
+          "end": 41,
+          "expanded_url": "https://x.com/b1ng333/status/2071480213780013397/photo/1",
+          "media_key": "3_2071480193068523520",
+          "start": 18,
+          "url": "https://t.co/bmGBVUFHXM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071503653211709729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071480213780013397",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @b1ng333: 死亡顶光 https://t.co/bmGBVUFHXM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071480193068523520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9gQqsbYAAdSiM.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071480193068523520"
+          ],
+          "media_source_tweet_id": [
+            "2071480213780013397"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "conversation_id": "2071503653211709729",
+        "created_at": "2026-06-29T07:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071503653211709729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2070298524185772032",
+              "start": 3,
+              "username": "b1ng333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bmGBVUFHXM",
+              "end": 41,
+              "expanded_url": "https://x.com/b1ng333/status/2071480213780013397/photo/1",
+              "media_key": "3_2071480193068523520",
+              "start": 18,
+              "url": "https://t.co/bmGBVUFHXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071503653211709729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071480213780013397",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @b1ng333: 死亡顶光 https://t.co/bmGBVUFHXM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071480193068523520"
+          ]
+        },
+        "author_id": "2070298524185772032",
+        "conversation_id": "2071480213780013397",
+        "created_at": "2026-06-29T06:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071480213780013397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bmGBVUFHXM",
+              "end": 28,
+              "expanded_url": "https://x.com/b1ng333/status/2071480213780013397/photo/1",
+              "media_key": "3_2071480193068523520",
+              "start": 5,
+              "url": "https://t.co/bmGBVUFHXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071480213780013397",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "死亡顶光 https://t.co/bmGBVUFHXM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "【寻回互fo】\n📍广州/🇯🇵/12-09-17/职高预备生\n精神病碎碎念清水推 电子宠物\n已上岸躺尸中zz🥰（剧烈啃英语。）\n热爱互动但被带口球……🚬\n🚪52\n小号@Paramjitt\n牛马💊@等我晚上开\n负能碎碎念@yumumu_msknb\n欧金金@niconekkod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Paramjitt"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2068570914644779519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068272596580503552/tfkvYV74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 466,
+          "like_count": 2100,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1086
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-26T00:12:48.000Z",
+        "description": "10世代｜she/her/hers｜双相中焦｜LGBTQIA+全友好｜ 一世@maitakoo二世@eatmewhole2｜#shtwt｜#drugtwt｜泛性恋｜可以叫我冰冰｜寻回互fo中｜彼氏@hselc_333",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 62,
+                "tag": "shtwt"
+              },
+              {
+                "end": 77,
+                "start": 69,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "maitakoo"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "eatmewhole2"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "hselc_333"
+              }
+            ]
+          }
+        },
+        "id": "2070298524185772032",
+        "name": "薄氷歹旬情_3.0",
+        "pinned_tweet_id": "2070506248513216625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071357330562936832/C4lh-oI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 43,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "b1ng333",
+        "verified": false
+      }
+    ]
+  }
+}

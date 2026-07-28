@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2071974145563427277",
+    "created_at": "2026-06-30T15:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071974145563427277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aminoxx_killer…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/aminoxx_killer/status/2071973996569206863",
+          "start": 15,
+          "url": "https://t.co/7RGn7L5XqP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071974145563427277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071973996569206863",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是新牛马号，，？！请光顾！ https://t.co/7RGn7L5XqP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1177,
+        "media_key": "3_2071973926998069248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEhTw6XUAA48jH.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2071974145563427277",
+        "created_at": "2026-06-30T15:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071974145563427277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aminoxx_killer…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/aminoxx_killer/status/2071973996569206863",
+              "start": 15,
+              "url": "https://t.co/7RGn7L5XqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071974145563427277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071973996569206863",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是新牛马号，，？！请光顾！ https://t.co/7RGn7L5XqP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071973926998069248"
+          ]
+        },
+        "author_id": "243386940",
+        "conversation_id": "2071973996569206863",
+        "created_at": "2026-06-30T15:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071973996569206863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iSs2uuOXSG",
+              "end": 38,
+              "expanded_url": "https://x.com/AminoXx_killer/status/2071973996569206863/photo/1",
+              "media_key": "3_2071973926998069248",
+              "start": 15,
+              "url": "https://t.co/iSs2uuOXSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071973996569206863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这里，第五个牛马，感兴趣私喵 https://t.co/iSs2uuOXSG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "【寻回互fo】\n📍广州/🇯🇵/12-09-17/职高预备生\n精神病碎碎念清水推 电子宠物\n已上岸躺尸中zz🥰（剧烈啃英语。）\n热爱互动但被带口球……🚬\n🚪52\n小号@Paramjitt\n牛马💊@等我晚上开\n负能碎碎念@yumumu_msknb\n欧金金@niconekkod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Paramjitt"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2068570914644779519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068272596580503552/tfkvYV74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 466,
+          "like_count": 2108,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1092
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-26T23:01:31.000Z",
+        "description": "雨木木😭\n牛马号💊\n小策划👻\ntg@LIhua1314",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/NpMKcQmEgI"
+              }
+            ]
+          }
+        },
+        "id": "243386940",
+        "name": "kitty",
+        "pinned_tweet_id": "2071973996569206863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071972902757355520/nGD7ip3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/NpMKcQmEgI",
+        "username": "AminoXx_killer",
+        "verified": false
+      }
+    ]
+  }
+}

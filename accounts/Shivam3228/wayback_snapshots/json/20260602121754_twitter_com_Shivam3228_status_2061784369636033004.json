@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2061784364258877441"
+      ]
+    },
+    "author_id": "1829867271592026112",
+    "conversation_id": "2061784369636033004",
+    "created_at": "2026-06-02T12:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061784369636033004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yeuy3BeeOX",
+          "end": 23,
+          "expanded_url": "https://x.com/Shivam3228/status/2061784369636033004/photo/1",
+          "media_key": "16_2061784364258877441",
+          "start": 0,
+          "url": "https://t.co/yeuy3BeeOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061784369636033004",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/yeuy3BeeOX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_2061784364258877441",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJzt9Jsa4AEGJxa.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJzt9Jsa4AEGJxa.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2061784364258877441"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "conversation_id": "2061784369636033004",
+        "created_at": "2026-06-02T12:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061784369636033004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yeuy3BeeOX",
+              "end": 23,
+              "expanded_url": "https://x.com/Shivam3228/status/2061784369636033004/photo/1",
+              "media_key": "16_2061784364258877441",
+              "start": 0,
+              "url": "https://t.co/yeuy3BeeOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061784369636033004",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yeuy3BeeOX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "在线时间15:00～5:00\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2061781359342047285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 345,
+          "like_count": 884,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 505
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

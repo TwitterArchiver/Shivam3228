@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2060375499336302914",
+    "created_at": "2026-05-29T19:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T20:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060446731033272757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1764297587404972032",
+          "start": 0,
+          "username": "Genoooeeoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060446731033272757",
+    "in_reply_to_user_id": "1764297587404972032",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060446425398571382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Genoooeeoo 🤩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2060375499336302914",
+        "created_at": "2026-05-29T19:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060446731033272757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1764297587404972032",
+              "start": 0,
+              "username": "Genoooeeoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060446731033272757",
+        "in_reply_to_user_id": "1764297587404972032",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060446425398571382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Genoooeeoo 🤩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764297587404972032",
+        "conversation_id": "2060375499336302914",
+        "created_at": "2026-05-29T19:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060446425398571382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060446425398571382",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060375499336302914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 不行，过几天就需要换个号说自己是9.霖了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "继续搞我吧\n共号@Melody_0v0_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Melody_0v0_"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2060380775804268560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 241,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 184
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T14:31:50.000Z",
+        "description": "音游重度依赖，主要玩Arcaea和Chunithm\n不开心了欢迎来找我聊天（不过我高中在读一般只在晚上凌晨出没）",
+        "id": "1764297587404972032",
+        "location": "Gray Heaven",
+        "name": "Geno",
+        "pinned_tweet_id": "2057593706514092449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041464930491342848/R14caVlu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 449,
+          "like_count": 3375,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 170
+        },
+        "username": "Genoooeeoo",
+        "verified": false
+      }
+    ]
+  }
+}

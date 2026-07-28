@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2064607649917018165",
+    "created_at": "2026-06-10T07:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064607649917018165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1293882138387980288",
+          "start": 3,
+          "username": "BhawnaniSamit"
+        },
+        {
+          "end": 30,
+          "id": "1829867271592026112",
+          "start": 19,
+          "username": "Shivam3228"
+        },
+        {
+          "end": 46,
+          "id": "1753116711899770880",
+          "start": 31,
+          "username": "elna_elvie9091"
+        },
+        {
+          "end": 54,
+          "id": "1437724402293018625",
+          "start": 47,
+          "username": "2Pikus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064607649917018165",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064604690390683650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BhawnaniSamit: @Shivam3228 @elna_elvie9091 @2Pikus HI。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2064607649917018165",
+        "created_at": "2026-06-10T07:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064607649917018165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1293882138387980288",
+              "start": 3,
+              "username": "BhawnaniSamit"
+            },
+            {
+              "end": 30,
+              "id": "1829867271592026112",
+              "start": 19,
+              "username": "Shivam3228"
+            },
+            {
+              "end": 46,
+              "id": "1753116711899770880",
+              "start": 31,
+              "username": "elna_elvie9091"
+            },
+            {
+              "end": 54,
+              "id": "1437724402293018625",
+              "start": 47,
+              "username": "2Pikus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064607649917018165",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064604690390683650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BhawnaniSamit: @Shivam3228 @elna_elvie9091 @2Pikus HI。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1293882138387980288",
+        "conversation_id": "2064407648083329296",
+        "created_at": "2026-06-10T07:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064604690390683650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            },
+            {
+              "end": 27,
+              "id": "1753116711899770880",
+              "start": 12,
+              "username": "elna_elvie9091"
+            },
+            {
+              "end": 35,
+              "id": "1437724402293018625",
+              "start": 28,
+              "username": "2Pikus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064604690390683650",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064407648083329296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 @elna_elvie9091 @2Pikus HI。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "【寻回互fo】\n📍广州/🇯🇵/12-09-17/IB牛马国际生。\n精神病碎碎念清水推 电子宠物\n已上岸躺尸中zz🥰（剧烈啃英语。）\n热爱互动但被带口球……🚬\n小号@elna_elvie9091\n牛马@2Pikus💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "elna_elvie9091"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "username": "2Pikus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2064407648083329296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 408,
+          "like_count": 1241,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 637
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-13T12:09:06.000Z",
+        "description": "第二支棉签。【寻回互fo。。】\n聚集猫咪中！\n猫猫猫零食tg： @LIhua1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "LIhua1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/hHWhyREu4r"
+              }
+            ]
+          }
+        },
+        "id": "1293882138387980288",
+        "location": "车车车",
+        "name": "mimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064600847338844160/fOowZd8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/hHWhyREu4r",
+        "username": "BhawnaniSamit",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T18:03:02.000Z",
+        "description": "寻回互fo\n大号@Shivam3228\n牛马号@2Pikus💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 30,
+                "start": 23,
+                "username": "2Pikus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/zUzSoYcfrf"
+              }
+            ]
+          }
+        },
+        "id": "1753116711899770880",
+        "location": "你身后",
+        "name": "一个数字",
+        "pinned_tweet_id": "2064225379548901404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062219571063652352/fkkLNX-F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 242,
+          "like_count": 1065,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 465
+        },
+        "url": "https://t.co/zUzSoYcfrf",
+        "username": "elna_elvie9091",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-14T10:26:35.000Z",
+        "description": "这里只有一条棉签...【寻回互fo】\n平等溺爱所有猫咪🐱\n猫零食tg：@LIhua1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "LIhua1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/LSeSQhkVT5"
+              }
+            ]
+          }
+        },
+        "id": "1437724402293018625",
+        "location": "猫粮→",
+        "name": "vivie",
+        "pinned_tweet_id": "2064330567710306545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064324176748695552/Avikgr1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 36,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/LSeSQhkVT5",
+        "username": "2Pikus",
+        "verified": false
+      }
+    ]
+  }
+}

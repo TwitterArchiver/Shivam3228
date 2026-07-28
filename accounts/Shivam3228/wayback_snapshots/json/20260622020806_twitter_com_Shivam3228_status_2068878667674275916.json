@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068877108630425600"
+      ],
+      "media_source_tweet_id": [
+        "2068877132357624280"
+      ]
+    },
+    "author_id": "1829867271592026112",
+    "conversation_id": "2068878667674275916",
+    "created_at": "2026-06-22T02:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T03:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068878667674275916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624337198765178881",
+          "start": 3,
+          "username": "niconekkod"
+        },
+        {
+          "end": 27,
+          "id": "1829867271592026112",
+          "start": 16,
+          "username": "Shivam3228"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cjmOFqPKLQ",
+          "end": 51,
+          "expanded_url": "https://x.com/niconekkod/status/2068877132357624280/photo/1",
+          "media_key": "3_2068877108630425600",
+          "start": 28,
+          "url": "https://t.co/cjmOFqPKLQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068878667674275916",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068877132357624280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niconekkod: @Shivam3228 https://t.co/cjmOFqPKLQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2068877108630425600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYgxNfakAAUf_g.jpg",
+        "width": 2268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068877108630425600"
+          ],
+          "media_source_tweet_id": [
+            "2068877132357624280"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "conversation_id": "2068878667674275916",
+        "created_at": "2026-06-22T02:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068878667674275916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624337198765178881",
+              "start": 3,
+              "username": "niconekkod"
+            },
+            {
+              "end": 27,
+              "id": "1829867271592026112",
+              "start": 16,
+              "username": "Shivam3228"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjmOFqPKLQ",
+              "end": 51,
+              "expanded_url": "https://x.com/niconekkod/status/2068877132357624280/photo/1",
+              "media_key": "3_2068877108630425600",
+              "start": 28,
+              "url": "https://t.co/cjmOFqPKLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068878667674275916",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068877132357624280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niconekkod: @Shivam3228 https://t.co/cjmOFqPKLQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068877108630425600"
+          ]
+        },
+        "author_id": "1624337198765178881",
+        "conversation_id": "2068877132357624280",
+        "created_at": "2026-06-22T02:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068877132357624280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjmOFqPKLQ",
+              "end": 35,
+              "expanded_url": "https://x.com/niconekkod/status/2068877132357624280/photo/1",
+              "media_key": "3_2068877108630425600",
+              "start": 12,
+              "url": "https://t.co/cjmOFqPKLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068877132357624280",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 https://t.co/cjmOFqPKLQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "【寻回互fo】\n📍广州/🇯🇵/12-09-17/IB牛马国际生。\n精神病碎碎念清水推 电子宠物\n已上岸躺尸中zz🥰（剧烈啃英语。）\n热爱互动但被带口球……🚬\n小号@Paramjitt\n牛马💊@idris21000\n负能碎碎念@yumumu_msknb\n欧金金@niconekkod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "Paramjitt"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "idris21000"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2068570914644779519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068272596580503552/tfkvYV74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 454,
+          "like_count": 1640,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 874
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T09:19:19.000Z",
+        "description": "这里是 niconeko 的第五个号\n14岁傻逼低龄做题区\n坐标CQ主城\n欢迎互 fo\n我的鼠鼠：@Shivam3228🐭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1624337198765178881",
+        "location": "CKG",
+        "name": "nikonekko",
+        "pinned_tweet_id": "2066524499240235409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068126961294323712/SCEUmmkC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 68,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "niconekkod",
+        "verified": false
+      }
+    ]
+  }
+}

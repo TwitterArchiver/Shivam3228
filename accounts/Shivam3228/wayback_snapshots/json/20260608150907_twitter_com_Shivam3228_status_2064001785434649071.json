@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064001778363039744"
+      ]
+    },
+    "author_id": "1829867271592026112",
+    "conversation_id": "2064001785434649071",
+    "created_at": "2026-06-08T15:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064001785434649071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 33,
+          "id": "2009492855262466051",
+          "start": 17,
+          "username": "BeckfordBl61271"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You are invited to a group chat on Telegram. Click to",
+          "display_url": "t.me/+A7UqL85q-kpkO…",
+          "end": 96,
+          "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2063331866233737216/TnSrHNDO?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2063331866233737216/TnSrHNDO?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 73,
+          "status": 200,
+          "title": "Join group chat on Telegram",
+          "unwound_url": "https://t.me/+A7UqL85q-kpkOTEx",
+          "url": "https://t.co/PIqqjwRfzX"
+        },
+        {
+          "display_url": "pic.x.com/E3uTAJ2Ytm",
+          "end": 120,
+          "expanded_url": "https://x.com/Shivam3228/status/2064001785434649071/photo/1",
+          "media_key": "3_2064001778363039744",
+          "start": 97,
+          "url": "https://t.co/E3uTAJ2Ytm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064001785434649071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们好呀你们好呀！爱来自我的猫妈妈@BeckfordBl61271！欢迎来狸花糖水铺咨询呀！品类众多，欢迎选购喵！\n（报雨木木名字享九折优惠捏）\nhttps://t.co/PIqqjwRfzX https://t.co/E3uTAJ2Ytm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1171,
+        "media_key": "3_2064001778363039744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTOro8agAApip2.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064001778363039744"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "conversation_id": "2064001785434649071",
+        "created_at": "2026-06-08T15:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064001785434649071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "2009492855262466051",
+              "start": 17,
+              "username": "BeckfordBl61271"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+A7UqL85q-kpkO…",
+              "end": 96,
+              "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2063331866233737216/TnSrHNDO?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063331866233737216/TnSrHNDO?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 73,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+A7UqL85q-kpkOTEx",
+              "url": "https://t.co/PIqqjwRfzX"
+            },
+            {
+              "display_url": "pic.x.com/E3uTAJ2Ytm",
+              "end": 120,
+              "expanded_url": "https://x.com/Shivam3228/status/2064001785434649071/photo/1",
+              "media_key": "3_2064001778363039744",
+              "start": 97,
+              "url": "https://t.co/E3uTAJ2Ytm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064001785434649071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们好呀你们好呀！爱来自我的猫妈妈@BeckfordBl61271！欢迎来狸花糖水铺咨询呀！品类众多，欢迎选购喵！\n（报雨木木名字享九折优惠捏）\nhttps://t.co/PIqqjwRfzX https://t.co/E3uTAJ2Ytm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "大号双炸了（申诉中）\n精分 双向 ADHD 不定时zs\n很温良的一个人，欢迎互动🤤🤤\n如果你爱我请给我打钱orz🙏🏻🥺",
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2063144673263353948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 392,
+          "like_count": 1166,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 633
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T05:10:19.000Z",
+        "description": "狸花：耐药王加耐杀王\n联系我加我tg@LIhua1314\n有神秘tg小商店\nhttps://t.co/roRO2PEvJ4\n性别就是猫，原来的两个号彻底死了这是三号机，不敢发有关于💊的东西了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 61,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 38,
+                "url": "https://t.co/roRO2PEvJ4"
+              }
+            ]
+          }
+        },
+        "id": "2009492855262466051",
+        "name": "猫三号机(我错了别再封了)",
+        "pinned_tweet_id": "2063690270496182346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059089775110635520/xC601_r-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 76,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 95
+        },
+        "username": "BeckfordBl61271",
+        "verified": false
+      }
+    ]
+  }
+}

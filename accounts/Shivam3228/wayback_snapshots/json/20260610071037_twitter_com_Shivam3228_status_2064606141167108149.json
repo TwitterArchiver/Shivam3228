@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2064606141167108149",
+    "created_at": "2026-06-10T07:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064606141167108149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bhawnanisamit/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/bhawnanisamit/status/2064605120151650623",
+          "start": 11,
+          "url": "https://t.co/4ArMARZzoB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064606141167108149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064605120151650623",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在meme在这里。 https://t.co/4ArMARZzoB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2064606141167108149",
+        "created_at": "2026-06-10T07:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064606141167108149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bhawnanisamit/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/bhawnanisamit/status/2064605120151650623",
+              "start": 11,
+              "url": "https://t.co/4ArMARZzoB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064606141167108149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064605120151650623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在meme在这里。 https://t.co/4ArMARZzoB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1293882138387980288",
+        "conversation_id": "2064605120151650623",
+        "created_at": "2026-06-10T07:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064605120151650623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2Pikus/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/2Pikus/status/2064330567710306545",
+              "start": 8,
+              "url": "https://t.co/MvEH1Yid7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064605120151650623",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064330567710306545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hello？！ https://t.co/MvEH1Yid7F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "【寻回互fo】\n📍广州/🇯🇵/12-09-17/IB牛马国际生。\n精神病碎碎念清水推 电子宠物\n已上岸躺尸中zz🥰（剧烈啃英语。）\n热爱互动但被带口球……🚬\n小号@elna_elvie9091\n牛马@2Pikus💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "elna_elvie9091"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "username": "2Pikus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2064407648083329296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 408,
+          "like_count": 1241,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-13T12:09:06.000Z",
+        "description": "第二支棉签。【寻回互fo。。】\n聚集猫咪中！\n猫猫猫零食tg： @LIhua1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "LIhua1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/hHWhyREu4r"
+              }
+            ]
+          }
+        },
+        "id": "1293882138387980288",
+        "location": "车车车",
+        "name": "mimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064600847338844160/fOowZd8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/hHWhyREu4r",
+        "username": "BhawnaniSamit",
+        "verified": false
+      }
+    ]
+  }
+}

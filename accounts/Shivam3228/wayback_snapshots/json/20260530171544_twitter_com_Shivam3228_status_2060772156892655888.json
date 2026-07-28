@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2060771399900525007",
+    "created_at": "2026-05-30T17:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T18:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060772156892655888"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060772156892655888",
+    "in_reply_to_user_id": "1829867271592026112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060771399900525007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我尝不出味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060771392531152897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlUqb8bQAERF5i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2060771399900525007",
+        "created_at": "2026-05-30T17:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060772156892655888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060772156892655888",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060771399900525007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我尝不出味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060771392531152897"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060771399900525007",
+        "created_at": "2026-05-30T17:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060771399900525007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eFuUcz5Mmj",
+              "end": 33,
+              "expanded_url": "https://x.com/Shivam3228/status/2060771399900525007/photo/1",
+              "media_key": "3_2060771392531152897",
+              "start": 10,
+              "url": "https://t.co/eFuUcz5Mmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060771399900525007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雨天 你 还有七星 https://t.co/eFuUcz5Mmj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "继续搞我吧\n共号@Melody_0v0_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Melody_0v0_"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2060380775804268560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 287,
+          "like_count": 394,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 258
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

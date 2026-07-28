@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060369455750971392",
+        "3_2060369455805566976"
+      ]
+    },
+    "author_id": "1829867271592026112",
+    "conversation_id": "2060369473732063484",
+    "created_at": "2026-05-29T14:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060369473732063484"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dQnxpN0NZC",
+          "end": 46,
+          "expanded_url": "https://x.com/Shivam3228/status/2060369473732063484/photo/1",
+          "media_key": "3_2060369455750971392",
+          "start": 23,
+          "url": "https://t.co/dQnxpN0NZC"
+        },
+        {
+          "display_url": "pic.x.com/dQnxpN0NZC",
+          "end": 46,
+          "expanded_url": "https://x.com/Shivam3228/status/2060369473732063484/photo/1",
+          "media_key": "3_2060369455805566976",
+          "start": 23,
+          "url": "https://t.co/dQnxpN0NZC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060369473732063484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们好呀，这里7.霖么么哒🤤互关寻回，求转🥵 https://t.co/dQnxpN0NZC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_2060369455750971392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfnGowaAAAIMT-.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2060369455805566976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfnGo9bEAA7-PD.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060369455750971392",
+            "3_2060369455805566976"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "conversation_id": "2060369473732063484",
+        "created_at": "2026-05-29T14:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060369473732063484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dQnxpN0NZC",
+              "end": 46,
+              "expanded_url": "https://x.com/Shivam3228/status/2060369473732063484/photo/1",
+              "media_key": "3_2060369455750971392",
+              "start": 23,
+              "url": "https://t.co/dQnxpN0NZC"
+            },
+            {
+              "display_url": "pic.x.com/dQnxpN0NZC",
+              "end": 46,
+              "expanded_url": "https://x.com/Shivam3228/status/2060369473732063484/photo/1",
+              "media_key": "3_2060369455805566976",
+              "start": 23,
+              "url": "https://t.co/dQnxpN0NZC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060369473732063484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们好呀，这里7.霖么么哒🤤互关寻回，求转🥵 https://t.co/dQnxpN0NZC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Bourg-la-Reine, Île-de-France, France",
+              "geo": {
+                "coordinates": [
+                  2.31781,
+                  48.77888
+                ],
+                "type": "Point"
+              },
+              "locality": "Bourg-la-Reine",
+              "region": "Île-de-France",
+              "sub_region": "Département des Hauts-de-Seine"
+            }
+          ]
+        },
+        "description": "继续搞我",
+        "id": "1829867271592026112",
+        "location": "你身后",
+        "name": "7.霖（病娇中2）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 224,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 164
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

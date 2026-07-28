@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2059548145491845268",
+    "created_at": "2026-05-27T08:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059548145491845268"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059548145491845268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你说妈妈会用水刑虐待你，我看见以后好难受好痛苦，我曾经也被这样子按在水里过，窒息感是很痛苦的……最后你居然使用了上d的方式结束了自己……真是意想不到。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2059548145491845268",
+        "created_at": "2026-05-27T08:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059548145491845268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059548145491845268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说妈妈会用水刑虐待你，我看见以后好难受好痛苦，我曾经也被这样子按在水里过，窒息感是很痛苦的……最后你居然使用了上d的方式结束了自己……真是意想不到。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "大号@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你身后",
+        "name": "7.霖（病娇中2）",
+        "pinned_tweet_id": "2058861278148673963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 87,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 30
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

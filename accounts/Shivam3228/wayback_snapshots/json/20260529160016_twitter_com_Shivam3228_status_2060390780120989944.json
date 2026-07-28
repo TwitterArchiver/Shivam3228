@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2060390780120989944",
+    "created_at": "2026-05-29T16:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060390780120989944"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "七号雨木木’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1RJZz…",
+          "end": 27,
+          "expanded_url": "https://x.com/i/spaces/1RJZzzWADRXJB",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2060390782050488322/frw25NJe?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2060390782050488322/frw25NJe?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 4,
+          "status": 200,
+          "title": "Happening now: 大学习",
+          "unwound_url": "https://twitter.com/i/spaces/1RJZzzWADRXJB/peek",
+          "url": "https://t.co/RNDeFTd4XD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060390780120989944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大学习 https://t.co/RNDeFTd4XD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2060390780120989944",
+        "created_at": "2026-05-29T16:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060390780120989944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "七号雨木木’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1RJZz…",
+              "end": 27,
+              "expanded_url": "https://x.com/i/spaces/1RJZzzWADRXJB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2060390782050488322/frw25NJe?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2060390782050488322/frw25NJe?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 4,
+              "status": 200,
+              "title": "Happening now: 大学习",
+              "unwound_url": "https://twitter.com/i/spaces/1RJZzzWADRXJB/peek",
+              "url": "https://t.co/RNDeFTd4XD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060390780120989944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大学习 https://t.co/RNDeFTd4XD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "继续搞我吧\n共号@Melody_0v0_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Melody_0v0_"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2060380775804268560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 229,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 175
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

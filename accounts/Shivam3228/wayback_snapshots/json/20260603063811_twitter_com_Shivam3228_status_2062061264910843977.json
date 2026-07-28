@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2062061264910843977",
+    "created_at": "2026-06-03T06:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062061264910843977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2025634713554268160",
+          "start": 3,
+          "username": "summer_xt0920"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062061264910843977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026002545689452581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @summer_xt0920: 这里是夏天，09年武汉高一生\n经常会发一些日常 抱怨 cos或者二次相关\n精神状态堪忧（误）但人很好说话\n你喜欢我＝我也喜欢你\n私聊我都会回，欢迎大家来私聊我\n生理心理都是男，介意可单删\n欢迎互fo捏，要互fo直接私我就好啦\np1属性图，p…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026002533320478720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB3OkeCb0AAb638.jpg",
+        "width": 1534
+      },
+      {
+        "height": 1918,
+        "media_key": "3_2026002533324623872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB3OkeDbEAAQiPR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2062061264910843977",
+        "created_at": "2026-06-03T06:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062061264910843977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2025634713554268160",
+              "start": 3,
+              "username": "summer_xt0920"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062061264910843977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026002545689452581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @summer_xt0920: 这里是夏天，09年武汉高一生\n经常会发一些日常 抱怨 cos或者二次相关\n精神状态堪忧（误）但人很好说话\n你喜欢我＝我也喜欢你\n私聊我都会回，欢迎大家来私聊我\n生理心理都是男，介意可单删\n欢迎互fo捏，要互fo直接私我就好啦\np1属性图，p…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026002533320478720",
+            "3_2026002533324623872"
+          ]
+        },
+        "author_id": "2025634713554268160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026002545689452581",
+        "created_at": "2026-02-23T18:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T19:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026002545689452581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CDrgYOSLgo",
+              "end": 153,
+              "expanded_url": "https://x.com/summer_xt0920/status/2026002545689452581/photo/1",
+              "media_key": "3_2026002533320478720",
+              "start": 130,
+              "url": "https://t.co/CDrgYOSLgo"
+            },
+            {
+              "display_url": "pic.x.com/CDrgYOSLgo",
+              "end": 153,
+              "expanded_url": "https://x.com/summer_xt0920/status/2026002545689452581/photo/1",
+              "media_key": "3_2026002533324623872",
+              "start": 130,
+              "url": "https://t.co/CDrgYOSLgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026002545689452581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 548,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里是夏天，09年武汉高一生\n经常会发一些日常 抱怨 cos或者二次相关\n精神状态堪忧（误）但人很好说话\n你喜欢我＝我也喜欢你\n私聊我都会回，欢迎大家来私聊我\n生理心理都是男，介意可单删\n欢迎互fo捏，要互fo直接私我就好啦\np1属性图，p2我的一些高p场照 https://t.co/CDrgYOSLgo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "在线时间15:00～5:00\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2061781359342047285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 353,
+          "like_count": 939,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 531
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T18:12:16.000Z",
+        "description": "喵",
+        "id": "2025634713554268160",
+        "location": "你家门口",
+        "name": "西木野夏天",
+        "pinned_tweet_id": "2026002545689452581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025634878851883009/Bi81Lf-E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 42,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 38
+        },
+        "username": "summer_xt0920",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2059541068241424769",
+    "created_at": "2026-05-27T07:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059541586552487980"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059541586552487980",
+    "in_reply_to_user_id": "1829867271592026112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059541068241424769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真他妈想把这段话发给您"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 722,
+        "media_key": "3_2059541059840159744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJT1rpgasAAAEmz.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2059541068241424769",
+        "created_at": "2026-05-27T07:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059541586552487980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059541586552487980",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059541068241424769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真他妈想把这段话发给您"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059541059840159744"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "conversation_id": "2059541068241424769",
+        "created_at": "2026-05-27T07:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059541068241424769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p2Hx39RWlW",
+              "end": 34,
+              "expanded_url": "https://x.com/Shivam3228/status/2059541068241424769/photo/1",
+              "media_key": "3_2059541059840159744",
+              "start": 11,
+              "url": "https://t.co/p2Hx39RWlW"
+            },
+            {
+              "display_url": "x.com/kuromi_ooooo/s…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/kuromi_ooooo/status/2059333119472529883",
+              "start": 35,
+              "url": "https://t.co/ixLXKZPAhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059541068241424769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059333119472529883",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真是够了，到此为止吧 https://t.co/p2Hx39RWlW https://t.co/ixLXKZPAhb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Bourg-la-Reine, Île-de-France, France",
+              "geo": {
+                "coordinates": [
+                  2.31781,
+                  48.77888
+                ],
+                "type": "Point"
+              },
+              "locality": "Bourg-la-Reine",
+              "region": "Île-de-France",
+              "sub_region": "Département des Hauts-de-Seine"
+            }
+          ]
+        },
+        "description": "大号@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你身后",
+        "name": "7.霖（病娇中2）",
+        "pinned_tweet_id": "2058861278148673963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 86,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 25
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

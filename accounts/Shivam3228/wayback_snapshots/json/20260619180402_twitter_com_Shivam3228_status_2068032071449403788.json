@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068032063530573824"
+      ]
+    },
+    "author_id": "1829867271592026112",
+    "conversation_id": "2068032071449403788",
+    "created_at": "2026-06-19T18:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T19:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068032071449403788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 33,
+          "id": "2039250355569987584",
+          "start": 17,
+          "username": "CherylLuca37991"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1mXOfMOOUn",
+          "end": 57,
+          "expanded_url": "https://x.com/Shivam3228/status/2068032071449403788/photo/1",
+          "media_key": "3_2068032063530573824",
+          "start": 34,
+          "url": "https://t.co/1mXOfMOOUn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068032071449403788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯对的这个是我猫妈妈对呃，灌注灌注@CherylLuca37991 https://t.co/1mXOfMOOUn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068032063530573824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMgNHLboAAGC1q.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068032063530573824"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "conversation_id": "2068032071449403788",
+        "created_at": "2026-06-19T18:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068032071449403788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "2039250355569987584",
+              "start": 17,
+              "username": "CherylLuca37991"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1mXOfMOOUn",
+              "end": 57,
+              "expanded_url": "https://x.com/Shivam3228/status/2068032071449403788/photo/1",
+              "media_key": "3_2068032063530573824",
+              "start": 34,
+              "url": "https://t.co/1mXOfMOOUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068032071449403788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯对的这个是我猫妈妈对呃，灌注灌注@CherylLuca37991 https://t.co/1mXOfMOOUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "【寻回互fo】\n📍广州/🇯🇵/12-09-17/IB牛马国际生。\n精神病碎碎念清水推 电子宠物\n已上岸躺尸中zz🥰（剧烈啃英语。）\n热爱互动但被带口球……🚬\n小号@Paramjitt\n牛马💊@idris21000\n负能碎碎念@yumumu_msknb\n欧金金@niconekkod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "Paramjitt"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "idris21000"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2067588292372299787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 450,
+          "like_count": 1489,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T07:55:48.000Z",
+        "description": "一个死去的人",
+        "id": "2039250355569987584",
+        "name": "猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067999752835452928/kZ-K0f8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "CherylLuca37991",
+        "verified": false
+      }
+    ]
+  }
+}

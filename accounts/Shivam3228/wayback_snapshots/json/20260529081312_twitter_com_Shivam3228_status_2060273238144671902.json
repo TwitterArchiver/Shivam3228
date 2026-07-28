@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2060273238144671902",
+    "created_at": "2026-05-29T08:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060273238144671902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1641968587102621696",
+          "start": 3,
+          "username": "0voki33Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060273238144671902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060270269080707099",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0voki33Me: 广州热死了热死了热死了啊！！！一想到我要坚持穿长袖我整个人就死掉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2060273238144671902",
+        "created_at": "2026-05-29T08:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060273238144671902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1641968587102621696",
+              "start": 3,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060273238144671902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060270269080707099",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0voki33Me: 广州热死了热死了热死了啊！！！一想到我要坚持穿长袖我整个人就死掉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2060270269080707099",
+        "created_at": "2026-05-29T08:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060270269080707099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060270269080707099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "广州热死了热死了热死了啊！！！一想到我要坚持穿长袖我整个人就死掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Bourg-la-Reine, Île-de-France, France",
+              "geo": {
+                "coordinates": [
+                  2.31781,
+                  48.77888
+                ],
+                "type": "Point"
+              },
+              "locality": "Bourg-la-Reine",
+              "region": "Île-de-France",
+              "sub_region": "Département des Hauts-de-Seine"
+            }
+          ]
+        },
+        "description": "大号@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你身后",
+        "name": "7.霖（病娇中2）",
+        "pinned_tweet_id": "2059924549207265777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 220,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 139
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜\n只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2058780849882231278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 1151,
+          "like_count": 6594,
+          "listed_count": 1,
+          "media_count": 319,
+          "tweet_count": 6549
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2060365969772655060",
+    "created_at": "2026-05-29T14:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060365969772655060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "7.霖（病娇中2）’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1nGnR…",
+          "end": 27,
+          "expanded_url": "https://x.com/i/spaces/1nGnRRVryEXGO",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2060365971316211712/i4W-vSrY?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2060365971316211712/i4W-vSrY?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 4,
+          "status": 200,
+          "title": "Happening now: 玩原神",
+          "unwound_url": "https://twitter.com/i/spaces/1nGnRRVryEXGO/peek",
+          "url": "https://t.co/0Da8HP7oqp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060365969772655060",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玩原神 https://t.co/0Da8HP7oqp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2060365969772655060",
+        "created_at": "2026-05-29T14:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060365969772655060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "7.霖（病娇中2）’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1nGnR…",
+              "end": 27,
+              "expanded_url": "https://x.com/i/spaces/1nGnRRVryEXGO",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2060365971316211712/i4W-vSrY?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2060365971316211712/i4W-vSrY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 4,
+              "status": 200,
+              "title": "Happening now: 玩原神",
+              "unwound_url": "https://twitter.com/i/spaces/1nGnRRVryEXGO/peek",
+              "url": "https://t.co/0Da8HP7oqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060365969772655060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩原神 https://t.co/0Da8HP7oqp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Bourg-la-Reine, Île-de-France, France",
+              "geo": {
+                "coordinates": [
+                  2.31781,
+                  48.77888
+                ],
+                "type": "Point"
+              },
+              "locality": "Bourg-la-Reine",
+              "region": "Île-de-France",
+              "sub_region": "Département des Hauts-de-Seine"
+            }
+          ]
+        },
+        "description": "大号@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你身后",
+        "name": "7.霖（病娇中2）",
+        "pinned_tweet_id": "2059924549207265777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 224,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 159
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

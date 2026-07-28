@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2062255504752255257",
+    "created_at": "2026-06-03T19:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T20:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062255504752255257"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062255504752255257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "六一我给表弟表妹一人三百。我要死了你们知道吗。你们两个要叫我爸爸懂不。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2062255504752255257",
+        "created_at": "2026-06-03T19:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T20:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062255504752255257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062255504752255257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "六一我给表弟表妹一人三百。我要死了你们知道吗。你们两个要叫我爸爸懂不。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "寻回互fo\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2062222760353628296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 364,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 572
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

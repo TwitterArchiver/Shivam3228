@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2067611702066315595",
+    "created_at": "2026-06-19T03:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T04:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067819633298874517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2036340584844337152",
+          "start": 0,
+          "username": "siryrkagisago21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067819633298874517",
+    "in_reply_to_user_id": "2036340584844337152",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067774609425133768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siryrkagisago21 👁️👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2067611702066315595",
+        "created_at": "2026-06-19T03:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067819633298874517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2036340584844337152",
+              "start": 0,
+              "username": "siryrkagisago21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067819633298874517",
+        "in_reply_to_user_id": "2036340584844337152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067774609425133768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siryrkagisago21 👁️👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036340584844337152",
+        "conversation_id": "2067611702066315595",
+        "created_at": "2026-06-19T01:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067774609425133768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067774609425133768",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067611702066315595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 汐汐一般都在福建或者香港喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "【寻回互fo】\n📍广州/🇯🇵/12-09-17/IB牛马国际生。\n精神病碎碎念清水推 电子宠物\n已上岸躺尸中zz🥰（剧烈啃英语。）\n热爱互动但被带口球……🚬\n小号@Paramjitt\n牛马💊@idris21000\n负能碎碎念@yumumu_msknb\n欧金金@niconekkod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "Paramjitt"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "idris21000"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2067588292372299787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 446,
+          "like_count": 1440,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 751
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T07:17:24.000Z",
+        "description": "中国人｜可以叫我小汐｜民主社会主义🚩｜顺友LGBTQ+🏳️‍🌈｜被诊断强迫症｜目前喜欢听凯尔特民谣☘️🪈🪉｜想尝试社交但比较胆怯孤僻🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/arhtijyhu317",
+                "end": 23,
+                "expanded_url": "https://ngl.link/arhtijyhu317",
+                "start": 0,
+                "url": "https://t.co/DFTNY86xew"
+              }
+            ]
+          }
+        },
+        "id": "2036340584844337152",
+        "name": "小汐",
+        "pinned_tweet_id": "2061031196977730000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050461853567037440/WJQpecSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 230,
+          "like_count": 3418,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 3330
+        },
+        "url": "https://t.co/DFTNY86xew",
+        "username": "siryrkagisago21",
+        "verified": false
+      }
+    ]
+  }
+}

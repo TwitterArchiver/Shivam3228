@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2061691489881878801",
+    "created_at": "2026-06-02T20:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T21:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061904483114958889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1764297587404972032",
+          "start": 0,
+          "username": "Genoooeeoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061904483114958889",
+    "in_reply_to_user_id": "1764297587404972032",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061884588994302345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Genoooeeoo 🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2061691489881878801",
+        "created_at": "2026-06-02T20:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T21:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061904483114958889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1764297587404972032",
+              "start": 0,
+              "username": "Genoooeeoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061904483114958889",
+        "in_reply_to_user_id": "1764297587404972032",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061884588994302345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Genoooeeoo 🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764297587404972032",
+        "conversation_id": "2061691489881878801",
+        "created_at": "2026-06-02T18:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061884588994302345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061884588994302345",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061691489881878801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 那我可能更需要来一个自慰失败的涨涨见识（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "在线时间15:00～5:00\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2061781359342047285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 349,
+          "like_count": 914,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 523
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T14:31:50.000Z",
+        "description": "音游重度依赖，主要玩Arcaea和Chunithm\n不开心了欢迎来找我聊天（不过我高中在读一般只在晚上凌晨出没）",
+        "id": "1764297587404972032",
+        "location": "Gray Heaven",
+        "name": "Geno",
+        "pinned_tweet_id": "2057593706514092449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041464930491342848/R14caVlu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 456,
+          "like_count": 3600,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 176
+        },
+        "username": "Genoooeeoo",
+        "verified": false
+      }
+    ]
+  }
+}

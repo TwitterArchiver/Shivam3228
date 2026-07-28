@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2061207814547321160",
+    "created_at": "2026-05-31T22:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T23:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061207814547321160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1743330426985594881",
+          "start": 3,
+          "username": "jianggejiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061207814547321160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061207593213906975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jianggejiang: 嗨 這裡姜鴿江 這是我的置頂🔝\n\nedtwt/drugtwt/shtwt/kleptotwt\nAuDHD/c-PTSD/焦虑症\n日常推/不在乎性别 泛性恋 (she/them/he)\n碎碎念/乱七八糟/恶臭\nINTP-T 天秤座♎️\nhttp…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2061207814547321160].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2061207814547321160",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2061207814547321160"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2057439604614295552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1-a2va8AAZSGt.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2057439638751715328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1-c16aoAA3PQ1.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2057439638764298241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1-c19aoAEM8Fv.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2057439668933902337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1-emWaQAEureZ.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057439604614295552",
+            "3_2057439638751715328",
+            "3_2057439638764298241",
+            "3_2057439668933902337"
+          ]
+        },
+        "author_id": "1743330426985594881",
+        "conversation_id": "2061207593213906975",
+        "created_at": "2026-05-31T22:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T23:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061207593213906975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/jianggejiang",
+              "end": 140,
+              "expanded_url": "http://ngl.link/jianggejiang",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2061207657428688896/NnsRcUk6?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2061207657428688896/NnsRcUk6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 117,
+              "status": 200,
+              "title": "@jianggejiang: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/jianggejiang",
+              "url": "https://t.co/3DgOsEny75"
+            },
+            {
+              "display_url": "pic.x.com/cihilKnokC",
+              "end": 195,
+              "expanded_url": "https://x.com/jianggejiang/status/2061207593213906975/photo/1",
+              "media_key": "3_2057439604614295552",
+              "start": 172,
+              "url": "https://t.co/cihilKnokC"
+            },
+            {
+              "display_url": "pic.x.com/cihilKnokC",
+              "end": 195,
+              "expanded_url": "https://x.com/jianggejiang/status/2061207593213906975/photo/1",
+              "media_key": "3_2057439638751715328",
+              "start": 172,
+              "url": "https://t.co/cihilKnokC"
+            },
+            {
+              "display_url": "pic.x.com/cihilKnokC",
+              "end": 195,
+              "expanded_url": "https://x.com/jianggejiang/status/2061207593213906975/photo/1",
+              "media_key": "3_2057439638764298241",
+              "start": 172,
+              "url": "https://t.co/cihilKnokC"
+            },
+            {
+              "display_url": "pic.x.com/cihilKnokC",
+              "end": 195,
+              "expanded_url": "https://x.com/jianggejiang/status/2061207593213906975/photo/1",
+              "media_key": "3_2057439668933902337",
+              "start": 172,
+              "url": "https://t.co/cihilKnokC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061207593213906975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嗨 這裡姜鴿江 這是我的置頂🔝\n\nedtwt/drugtwt/shtwt/kleptotwt\nAuDHD/c-PTSD/焦虑症\n日常推/不在乎性别 泛性恋 (she/them/he)\n碎碎念/乱七八糟/恶臭\nINTP-T 天秤座♎️\nhttps://t.co/3DgOsEny75\n你可能雷:\n药物 自殘自殺 裸露 丑脸\n\n从你妈逼良🏳️‍🌈 https://t.co/cihilKnokC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "继续搞我吧\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2060380775804268560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 325,
+          "like_count": 675,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 403
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T17:55:57.000Z",
+        "description": "-烟代找我 外烟电子烟💚🏳️‍🌈\n-叫我姜鴿江/阿团/JunoPhilip/J \n-CN/ENG🤏\n-从你妈逼良\n-🚪66￥ 详🔝plq\n-英文号:@jiangziqiqqq\n-备用:@poorspider1014",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "jiangziqiqqq"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "poorspider1014"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianggejiang66…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianggejiang66281",
+                "start": 0,
+                "url": "https://t.co/VAA7v2DNcJ"
+              }
+            ]
+          }
+        },
+        "id": "1743330426985594881",
+        "location": "Ion Jupiter",
+        "name": "姜鸽江⑧⑨⑥④(day0)",
+        "pinned_tweet_id": "2046542186985226598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056376409434783745/0i0qhl96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 933,
+          "like_count": 7240,
+          "listed_count": 0,
+          "media_count": 564,
+          "tweet_count": 3787
+        },
+        "url": "https://t.co/VAA7v2DNcJ",
+        "username": "jianggejiang",
+        "verified": false
+      }
+    ]
+  }
+}

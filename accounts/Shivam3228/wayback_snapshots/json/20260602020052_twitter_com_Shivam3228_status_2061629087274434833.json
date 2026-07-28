@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2061376222001803615",
+    "created_at": "2026-06-02T02:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061629087274434833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1763499048844369921",
+          "start": 0,
+          "username": "MoZYccc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061629087274434833",
+    "in_reply_to_user_id": "1763499048844369921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061627963511296422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoZYccc 非洲起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2061376222001803615",
+        "created_at": "2026-06-02T02:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061629087274434833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1763499048844369921",
+              "start": 0,
+              "username": "MoZYccc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061629087274434833",
+        "in_reply_to_user_id": "1763499048844369921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061627963511296422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoZYccc 非洲起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763499048844369921",
+        "conversation_id": "2061376222001803615",
+        "created_at": "2026-06-02T01:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T02:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061627963511296422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061627963511296422",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061376222001803615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 都想转生北欧了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "在线时间15:00～5:00\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2060380775804268560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 348,
+          "like_count": 835,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 481
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T09:38:43.000Z",
+        "description": "杀遍所有报晓的公鸡，黎明依然会到来。\nMooZYccc v2.0 ~ 🍥MtX/XYN/HCM/DPYZ  | TG https://t.co/bSU8uQSY1q",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/CyproteroneXYN",
+                "end": 82,
+                "expanded_url": "https://t.me/CyproteroneXYN",
+                "start": 59,
+                "url": "https://t.co/bSU8uQSY1q"
+              }
+            ]
+          }
+        },
+        "id": "1763499048844369921",
+        "location": "Hangzhou",
+        "name": "MooZYccc 🍥",
+        "pinned_tweet_id": "2022223506654867636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046965150331314176/qArSafX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3784,
+          "following_count": 258,
+          "like_count": 2198,
+          "listed_count": 21,
+          "media_count": 511,
+          "tweet_count": 1223
+        },
+        "username": "MoZYccc",
+        "verified": false
+      }
+    ]
+  }
+}

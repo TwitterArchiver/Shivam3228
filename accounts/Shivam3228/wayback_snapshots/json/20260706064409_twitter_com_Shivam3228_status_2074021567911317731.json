@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2073811033744171495",
+    "created_at": "2026-07-06T06:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T07:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074021567911317731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2073780355434483712",
+          "start": 0,
+          "username": "QianQian_TwT"
+        },
+        {
+          "end": 30,
+          "id": "2047894021457211393",
+          "start": 14,
+          "username": "FanQie_QianQian"
+        },
+        {
+          "end": 43,
+          "id": "2050947066709573632",
+          "start": 31,
+          "username": "KetChup_Mew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074021567911317731",
+    "in_reply_to_user_id": "2073780355434483712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074020549404381661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianQian_TwT @FanQie_QianQian @KetChup_Mew 为什么，不，关注我，没有，爱，"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [FanQie_QianQian].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "FanQie_QianQian",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "FanQie_QianQian"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2073811033744171495",
+        "created_at": "2026-07-06T06:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074021567911317731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            },
+            {
+              "end": 30,
+              "id": "2047894021457211393",
+              "start": 14,
+              "username": "FanQie_QianQian"
+            },
+            {
+              "end": 43,
+              "id": "2050947066709573632",
+              "start": 31,
+              "username": "KetChup_Mew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074021567911317731",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074020549404381661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT @FanQie_QianQian @KetChup_Mew 为什么，不，关注我，没有，爱，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2073811033744171495",
+        "created_at": "2026-07-06T06:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074020549404381661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            },
+            {
+              "end": 28,
+              "id": "2047894021457211393",
+              "start": 12,
+              "username": "FanQie_QianQian"
+            },
+            {
+              "end": 41,
+              "id": "2050947066709573632",
+              "start": 29,
+              "username": "KetChup_Mew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074020549404381661",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074016657098596776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 @FanQie_QianQian @KetChup_Mew 泥嚎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "这里是霖【寻回推u】\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n生活在互联网！查成分回fo/我是低龄糖逼大傻福，十分抱歉！\n宇宙级严重失眠 -12现役初中生\n小号@Paramjitt\n牛马💊@AminoXx_killer \n负能碎碎念@yumumu_msknb\n欧金金@niconekkod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "Paramjitt"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2068570914644779519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068272596580503552/tfkvYV74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 479,
+          "like_count": 2127,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1114
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 35,
+          "like_count": 135,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T14:34:35.000Z",
+        "description": "寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              }
+            ]
+          }
+        },
+        "id": "2050947066709573632",
+        "name": "Ketchup.",
+        "pinned_tweet_id": "2052411668899258599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051593518955769856/hjmXPxj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 33,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "KetChup_Mew",
+        "verified": false
+      }
+    ]
+  }
+}

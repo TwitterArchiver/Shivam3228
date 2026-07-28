@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058959969601638400"
+      ],
+      "media_source_tweet_id": [
+        "2058960017764802986"
+      ]
+    },
+    "author_id": "1829867271592026112",
+    "conversation_id": "2059541127431332176",
+    "created_at": "2026-05-27T07:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059541127431332176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2044159003203129344",
+          "start": 3,
+          "username": "zRy11lilpeep01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hp75iQQqmm",
+          "end": 79,
+          "expanded_url": "https://x.com/zRy11lilpeep01/status/2058960017764802986/photo/1",
+          "media_key": "3_2058959969601638400",
+          "start": 56,
+          "url": "https://t.co/hp75iQQqmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059541127431332176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058960017764802986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @zRy11lilpeep01: 我是小犬 寻回前世互fo！ (ૢ˃ꌂ˂⁎) 餐劵宝宝都来找我互fo吧！ https://t.co/hp75iQQqmm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059541127431332176].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059541127431332176",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059541127431332176"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_2058959969601638400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLlLvra0AA0O7B.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058959969601638400"
+          ]
+        },
+        "author_id": "2044159003203129344",
+        "conversation_id": "2058960017764802986",
+        "created_at": "2026-05-25T17:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058960017764802986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hp75iQQqmm",
+              "end": 59,
+              "expanded_url": "https://x.com/zRy11lilpeep01/status/2058960017764802986/photo/1",
+              "media_key": "3_2058959969601638400",
+              "start": 36,
+              "url": "https://t.co/hp75iQQqmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058960017764802986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 454,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "following",
+        "text": "我是小犬 寻回前世互fo！ (ૢ˃ꌂ˂⁎) 餐劵宝宝都来找我互fo吧！ https://t.co/hp75iQQqmm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Bourg-la-Reine, Île-de-France, France",
+              "geo": {
+                "coordinates": [
+                  2.31781,
+                  48.77888
+                ],
+                "type": "Point"
+              },
+              "locality": "Bourg-la-Reine",
+              "region": "Île-de-France",
+              "sub_region": "Département des Hauts-de-Seine"
+            }
+          ]
+        },
+        "description": "大号@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你身后",
+        "name": "7.霖（病娇中2）",
+        "pinned_tweet_id": "2058861278148673963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 86,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 24
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T21:01:06.000Z",
+        "description": "小犬前世|只fo同类|自残od|重抑PTSD重焦|寻找前世互fo！",
+        "id": "2044159003203129344",
+        "name": "zRy_lilpeep1",
+        "pinned_tweet_id": "2058960017764802986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044159139996413953/2mX3TT1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 42,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "zRy11lilpeep01",
+        "verified": false
+      }
+    ]
+  }
+}

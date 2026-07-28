@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062000599231873024"
+      ],
+      "media_source_tweet_id": [
+        "2062000701300244929"
+      ]
+    },
+    "author_id": "1829867271592026112",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062036145169678786",
+    "created_at": "2026-06-03T04:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062036145169678786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1880803334405435393",
+          "start": 3,
+          "username": "tiantmaoshenshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9wFbNqIzjv",
+          "end": 54,
+          "expanded_url": "https://x.com/tiantmaoshenshi/status/2062000701300244929/photo/1",
+          "media_key": "3_2062000599231873024",
+          "start": 31,
+          "url": "https://t.co/9wFbNqIzjv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062036145169678786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062000701300244929",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tiantmaoshenshi: 我想和你们交朋友！ https://t.co/9wFbNqIzjv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062000599231873024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2ynrvbwAAb6x2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062000599231873024"
+          ],
+          "media_source_tweet_id": [
+            "2062000701300244929"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062036145169678786",
+        "created_at": "2026-06-03T04:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062036145169678786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1880803334405435393",
+              "start": 3,
+              "username": "tiantmaoshenshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wFbNqIzjv",
+              "end": 54,
+              "expanded_url": "https://x.com/tiantmaoshenshi/status/2062000701300244929/photo/1",
+              "media_key": "3_2062000599231873024",
+              "start": 31,
+              "url": "https://t.co/9wFbNqIzjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062036145169678786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062000701300244929",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tiantmaoshenshi: 我想和你们交朋友！ https://t.co/9wFbNqIzjv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062000599231873024"
+          ]
+        },
+        "author_id": "1880803334405435393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062000701300244929",
+        "created_at": "2026-06-03T02:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062000701300244929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wFbNqIzjv",
+              "end": 33,
+              "expanded_url": "https://x.com/tiantmaoshenshi/status/2062000701300244929/photo/1",
+              "media_key": "3_2062000599231873024",
+              "start": 10,
+              "url": "https://t.co/9wFbNqIzjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062000701300244929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我想和你们交朋友！ https://t.co/9wFbNqIzjv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "在线时间15:00～5:00\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2061781359342047285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 351,
+          "like_count": 934,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 529
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "靠近才能了解的兔子\n负能量警告⚠️\n2.3次元人\n不是好人\n双相精分犯抽的时候会很烦，对不起，请蔽我\n不发推就是在现生/思考/浮起\n来和我交朋友互fo吧(`･ω･´)ゞ",
+        "id": "1880803334405435393",
+        "location": "中北海",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2062000701300244929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973409019516821504/5wMTL0Wa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 437,
+          "like_count": 10297,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 4423
+        },
+        "username": "tiantmaoshenshi",
+        "verified": false
+      }
+    ]
+  }
+}

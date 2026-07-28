@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2059615223410274803",
+    "created_at": "2026-05-27T12:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059615223410274803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2051880722172882944",
+          "start": 3,
+          "username": "HUS632788630220"
+        },
+        {
+          "end": 32,
+          "id": "1829867271592026112",
+          "start": 21,
+          "username": "Shivam3228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059615223410274803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059614441554223318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HUS632788630220: @Shivam3228 等变成小粉红什么都晚了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2059615223410274803",
+        "created_at": "2026-05-27T12:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059615223410274803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2051880722172882944",
+              "start": 3,
+              "username": "HUS632788630220"
+            },
+            {
+              "end": 32,
+              "id": "1829867271592026112",
+              "start": 21,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059615223410274803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059614441554223318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HUS632788630220: @Shivam3228 等变成小粉红什么都晚了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051880722172882944",
+        "conversation_id": "2059585436759277712",
+        "created_at": "2026-05-27T12:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059614441554223318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059614441554223318",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059585436759277712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 等变成小粉红什么都晚了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Bourg-la-Reine, Île-de-France, France",
+              "geo": {
+                "coordinates": [
+                  2.31781,
+                  48.77888
+                ],
+                "type": "Point"
+              },
+              "locality": "Bourg-la-Reine",
+              "region": "Île-de-France",
+              "sub_region": "Département des Hauts-de-Seine"
+            }
+          ]
+        },
+        "description": "大号@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你身后",
+        "name": "7.霖（病娇中2）",
+        "pinned_tweet_id": "2058861278148673963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 127,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 68
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T04:24:32.000Z",
+        "description": "",
+        "id": "2051880722172882944",
+        "location": "离死亡最近的地方",
+        "name": "HUS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055666437122088960/YJgZn5vy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 14,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 182
+        },
+        "username": "HUS632788630220",
+        "verified": false
+      }
+    ]
+  }
+}

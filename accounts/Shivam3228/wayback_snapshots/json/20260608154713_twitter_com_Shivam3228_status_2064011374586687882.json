@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2064011374586687882",
+    "created_at": "2026-06-08T15:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064011374586687882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053009418871357440",
+          "start": 3,
+          "username": "NMD_2012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064011374586687882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064011195749912603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NMD_2012: 原来是雨木木号炸了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2064011374586687882",
+        "created_at": "2026-06-08T15:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064011374586687882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053009418871357440",
+              "start": 3,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064011374586687882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064011195749912603",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NMD_2012: 原来是雨木木号炸了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2064010301989892369",
+        "created_at": "2026-06-08T15:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064011195749912603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064011195749912603",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064010301989892369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来是雨木木号炸了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "大号双炸了（申诉中）\n此号幽灵ban🚬\n精分 双向 ADHD 不定时zs\n很温良的一个人，欢迎互动🤤🤤\n如果你爱我请给我打钱orz🙏🏻🥺",
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2064007773395063295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 393,
+          "like_count": 1172,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 640
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "我喜欢装深沉但可能不是装的",
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 33,
+          "like_count": 1779,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 100
+        },
+        "username": "NMD_2012",
+        "verified": false
+      }
+    ]
+  }
+}

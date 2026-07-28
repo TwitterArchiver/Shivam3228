@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2064399674094891370",
+    "created_at": "2026-06-09T17:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064399674094891370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1932054193625522176",
+          "start": 3,
+          "username": "6forsaken6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/P0okS",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/P0okS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064399674094891370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064395835040039250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @6forsaken6: 我好绝望，我好无助，我好害怕，我好孤独。\n我好崩溃，我好迷茫，我好无力，我好心碎。\n我好疲惫，我好空虚，我好脆弱，我好窒息。\n我好慌乱，我好痛苦，我好渺小，我好悲凉。\n我好彷徨，我好无望，我好颤抖，我好孤单。 https://t.co/P0okS…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064399674094891370].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064399674094891370",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064399674094891370"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064395830069800960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKY1Ed8bsAADccg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064395830069800960"
+          ]
+        },
+        "author_id": "1932054193625522176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064395835040039250",
+        "created_at": "2026-06-09T17:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064395835040039250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P0okSEcegx",
+              "end": 128,
+              "expanded_url": "https://x.com/6forsaken6/status/2064395835040039250/photo/1",
+              "media_key": "3_2064395830069800960",
+              "start": 105,
+              "url": "https://t.co/P0okSEcegx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064395835040039250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我好绝望，我好无助，我好害怕，我好孤独。\n我好崩溃，我好迷茫，我好无力，我好心碎。\n我好疲惫，我好空虚，我好脆弱，我好窒息。\n我好慌乱，我好痛苦，我好渺小，我好悲凉。\n我好彷徨，我好无望，我好颤抖，我好孤单。 https://t.co/P0okSEcegx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "一个社交账号【寻回推u。】\n此号幽灵ban🚬\n精分 双向 ADHD 无不良嗜好\n很温良的一个人，欢迎互动🤤🤤\n小号@elna_elvie9091\n牛马@2Pikus💊\n🥺期待大家和我互动呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 57,
+                "username": "elna_elvie9091"
+              },
+              {
+                "end": 82,
+                "start": 75,
+                "username": "2Pikus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2064006964024385892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 400,
+          "like_count": 1220,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 622
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T12:36:37.000Z",
+        "description": "初中生(要中考力)/ENTP/爱看百合/tomorin/废物吉他手(兼没用的贝斯手)/木柜子痴/马克思主义者/交友\n反台独/辱华/殖人/见证魔怔人",
+        "id": "1932054193625522176",
+        "name": "常凯申",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053420265867239424/YR7k3Ggn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 78,
+          "like_count": 1116,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 826
+        },
+        "username": "6forsaken6",
+        "verified": false
+      }
+    ]
+  }
+}

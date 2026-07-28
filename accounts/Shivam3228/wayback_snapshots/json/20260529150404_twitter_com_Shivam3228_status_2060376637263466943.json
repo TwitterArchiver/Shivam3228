@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2060376637263466943",
+    "created_at": "2026-05-29T15:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060376637263466943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058484419581870080",
+          "start": 3,
+          "username": "12S1dsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060376637263466943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060376362905706512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @12S1dsb: 感觉自己这号也活不长"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2060376637263466943",
+        "created_at": "2026-05-29T15:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060376637263466943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058484419581870080",
+              "start": 3,
+              "username": "12S1dsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060376637263466943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060376362905706512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @12S1dsb: 感觉自己这号也活不长"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058484419581870080",
+        "conversation_id": "2060376362905706512",
+        "created_at": "2026-05-29T15:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060376362905706512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060376362905706512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己这号也活不长"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "继续搞我吧\n共号@Melody_0v0_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Melody_0v0_"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2060369473732063484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 225,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 169
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T09:45:49.000Z",
+        "description": "从出生没少往死里嗫，打那起多活一天都是赚的/烟袋",
+        "id": "2058484419581870080",
+        "location": "Jiput, Indonesia",
+        "name": "叫我12就好了",
+        "pinned_tweet_id": "2058890118145171528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058493615861907457/hNojcrDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 113,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 143
+        },
+        "username": "12S1dsb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067898979443220480"
+      ],
+      "media_source_tweet_id": [
+        "2067898995368952246"
+      ]
+    },
+    "author_id": "1829867271592026112",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068696074764902795",
+    "created_at": "2026-06-21T14:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068696074764902795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "126581934",
+          "start": 3,
+          "username": "dearemon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7m6apcK9at",
+          "end": 48,
+          "expanded_url": "https://x.com/dearemon/status/2067898995368952246/photo/1",
+          "media_key": "3_2067898979443220480",
+          "start": 25,
+          "url": "https://t.co/7m6apcK9at"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068696074764902795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067898995368952246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dearemon: 今天是貝斯輕的日子！ https://t.co/7m6apcK9at"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 954,
+        "media_key": "3_2067898979443220480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKnKmUbIAA8E2k.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067898979443220480"
+          ],
+          "media_source_tweet_id": [
+            "2067898995368952246"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068696074764902795",
+        "created_at": "2026-06-21T14:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068696074764902795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "126581934",
+              "start": 3,
+              "username": "dearemon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7m6apcK9at",
+              "end": 48,
+              "expanded_url": "https://x.com/dearemon/status/2067898995368952246/photo/1",
+              "media_key": "3_2067898979443220480",
+              "start": 25,
+              "url": "https://t.co/7m6apcK9at"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068696074764902795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067898995368952246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dearemon: 今天是貝斯輕的日子！ https://t.co/7m6apcK9at"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067898979443220480"
+          ]
+        },
+        "author_id": "126581934",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067898995368952246",
+        "created_at": "2026-06-19T09:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067898995368952246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7m6apcK9at",
+              "end": 34,
+              "expanded_url": "https://x.com/dearemon/status/2067898995368952246/photo/1",
+              "media_key": "3_2067898979443220480",
+              "start": 11,
+              "url": "https://t.co/7m6apcK9at"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067898995368952246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 12957,
+          "like_count": 614,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "今天是貝斯輕的日子！ https://t.co/7m6apcK9at"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "【寻回互fo】\n📍广州/🇯🇵/12-09-17/IB牛马国际生。\n精神病碎碎念清水推 电子宠物\n已上岸躺尸中zz🥰（剧烈啃英语。）\n热爱互动但被带口球……🚬\n小号@Paramjitt\n牛马💊@idris21000\n负能碎碎念@yumumu_msknb\n欧金金@niconekkod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "Paramjitt"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "idris21000"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2068570914644779519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068272596580503552/tfkvYV74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 453,
+          "like_count": 1613,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 859
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63095,
+          "following_count": 695,
+          "like_count": 5869,
+          "listed_count": 229,
+          "media_count": 33338,
+          "tweet_count": 401800
+        },
+        "url": "",
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2059544219589763074",
+    "created_at": "2026-05-27T07:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059544219589763074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1975129821111074816",
+          "start": 3,
+          "username": "woaiuai0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059544219589763074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059543715178574211",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woaiuai0721: 一想到有推油走了我就感到难过与无奈，但是我无能为力无可奈何，我恨这个世界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2059544219589763074",
+        "created_at": "2026-05-27T07:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059544219589763074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1975129821111074816",
+              "start": 3,
+              "username": "woaiuai0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059544219589763074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059543715178574211",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woaiuai0721: 一想到有推油走了我就感到难过与无奈，但是我无能为力无可奈何，我恨这个世界"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975129821111074816",
+        "conversation_id": "2059543715178574211",
+        "created_at": "2026-05-27T07:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059543715178574211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059543715178574211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一想到有推油走了我就感到难过与无奈，但是我无能为力无可奈何，我恨这个世界"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Bourg-la-Reine, Île-de-France, France",
+              "geo": {
+                "coordinates": [
+                  2.31781,
+                  48.77888
+                ],
+                "type": "Point"
+              },
+              "locality": "Bourg-la-Reine",
+              "region": "Île-de-France",
+              "sub_region": "Département des Hauts-de-Seine"
+            }
+          ]
+        },
+        "description": "大号@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你身后",
+        "name": "7.霖（病娇中2）",
+        "pinned_tweet_id": "2058861278148673963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 87,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 28
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T09:24:02.000Z",
+        "description": "11年初二生，大家可以叫我朱雨辰，想要交朋友\nip：浙江",
+        "id": "1975129821111074816",
+        "location": "低頭看看",
+        "name": "朱雨辰牛逼",
+        "pinned_tweet_id": "2058159466319876141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040900649588768769/fUXi9OrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 105,
+          "like_count": 5987,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1499
+        },
+        "username": "woaiuai0721",
+        "verified": false
+      }
+    ]
+  }
+}

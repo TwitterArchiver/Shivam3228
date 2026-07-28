@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2060792902293618795",
+    "created_at": "2026-05-30T18:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060792902293618795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/e57jcetmss9151…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/e57jcetmss91516/status/2060720622343491731",
+          "start": 87,
+          "url": "https://t.co/ngxCvr3sYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060792902293618795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060720622343491731",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "六一儿童节要到了  我还只是一个小朋友\nAd钙奶4r\n卫龙辣条2r\n柠檬水5r\n愿意把我当小孩宠的5.2r\n喜之郎果冻3r\n巧克力3r\n买我的开心52r\n让我滚蛋0.78r https://t.co/ngxCvr3sYu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2060792902293618795",
+        "created_at": "2026-05-30T18:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060792902293618795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/e57jcetmss9151…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/e57jcetmss91516/status/2060720622343491731",
+              "start": 87,
+              "url": "https://t.co/ngxCvr3sYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060792902293618795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060720622343491731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "六一儿童节要到了  我还只是一个小朋友\nAd钙奶4r\n卫龙辣条2r\n柠檬水5r\n愿意把我当小孩宠的5.2r\n喜之郎果冻3r\n巧克力3r\n买我的开心52r\n让我滚蛋0.78r https://t.co/ngxCvr3sYu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013875219392585728",
+        "conversation_id": "2060720622343491731",
+        "created_at": "2026-05-30T13:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060720622343491731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060720622343491731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "六一儿童节要到了  我还只是一个小朋友\nAd钙奶4r\n卫龙辣条2r\n柠檬水5r\n愿意把我当小孩宠的5.2r\n喜之郎果冻3r\n巧克力3r\n买我的开心52r\n让我滚蛋0.78r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "继续搞我吧\n共号@Melody_0v0_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Melody_0v0_"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2060380775804268560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 289,
+          "like_count": 470,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 287
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T07:24:26.000Z",
+        "description": "",
+        "id": "2013875219392585728",
+        "location": "🚪52/88/288/520上不封顶（过门不退",
+        "name": "。",
+        "pinned_tweet_id": "2060762977561907392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050134925723291649/NDTEb7gs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 360,
+          "like_count": 12491,
+          "listed_count": 1,
+          "media_count": 407,
+          "tweet_count": 6482
+        },
+        "username": "e57jcetmSs91516",
+        "verified": false
+      }
+    ]
+  }
+}

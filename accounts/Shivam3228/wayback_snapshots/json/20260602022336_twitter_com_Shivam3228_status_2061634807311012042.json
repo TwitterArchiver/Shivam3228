@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061584876697235456",
+        "3_2061584888592306176"
+      ],
+      "media_source_tweet_id": [
+        "2061584899090592198",
+        "2061584899090592198"
+      ]
+    },
+    "author_id": "1829867271592026112",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061634807311012042",
+    "created_at": "2026-06-02T02:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061634807311012042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2048003423384010752",
+          "start": 3,
+          "username": "TeamRain_2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G3AFfUfo0I",
+          "end": 113,
+          "expanded_url": "https://x.com/TeamRain_2024/status/2061584899090592198/photo/1",
+          "media_key": "3_2061584876697235456",
+          "start": 90,
+          "url": "https://t.co/G3AFfUfo0I"
+        },
+        {
+          "display_url": "pic.x.com/G3AFfUfo0I",
+          "end": 113,
+          "expanded_url": "https://x.com/TeamRain_2024/status/2061584899090592198/photo/1",
+          "media_key": "3_2061584888592306176",
+          "start": 90,
+          "url": "https://t.co/G3AFfUfo0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061634807311012042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061584899090592198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TeamRain_2024: 大家好，我是芸光酱，正如你所见，我的账号被永久封禁了。😭😭😭大家能不能关注我的这个二代目新号，我也要开始互fo 巡回了😢，大家顺便帮我转个帖 https://t.co/G3AFfUfo0I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2061584876697235456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJw4hcnbMAA6g-U.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2061584888592306176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJw4iI7bkAAB2vs.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061584876697235456",
+            "3_2061584888592306176"
+          ],
+          "media_source_tweet_id": [
+            "2061584899090592198",
+            "2061584899090592198"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061634807311012042",
+        "created_at": "2026-06-02T02:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061634807311012042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2048003423384010752",
+              "start": 3,
+              "username": "TeamRain_2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3AFfUfo0I",
+              "end": 113,
+              "expanded_url": "https://x.com/TeamRain_2024/status/2061584899090592198/photo/1",
+              "media_key": "3_2061584876697235456",
+              "start": 90,
+              "url": "https://t.co/G3AFfUfo0I"
+            },
+            {
+              "display_url": "pic.x.com/G3AFfUfo0I",
+              "end": 113,
+              "expanded_url": "https://x.com/TeamRain_2024/status/2061584899090592198/photo/1",
+              "media_key": "3_2061584888592306176",
+              "start": 90,
+              "url": "https://t.co/G3AFfUfo0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061634807311012042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061584899090592198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TeamRain_2024: 大家好，我是芸光酱，正如你所见，我的账号被永久封禁了。😭😭😭大家能不能关注我的这个二代目新号，我也要开始互fo 巡回了😢，大家顺便帮我转个帖 https://t.co/G3AFfUfo0I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061584876697235456",
+            "3_2061584888592306176"
+          ]
+        },
+        "author_id": "2048003423384010752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061584899090592198",
+        "created_at": "2026-06-01T23:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T23:53:52.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061582026835419398",
+          "2061584899090592198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3AFfUfo0I",
+              "end": 94,
+              "expanded_url": "https://x.com/TeamRain_2024/status/2061584899090592198/photo/1",
+              "media_key": "3_2061584876697235456",
+              "start": 71,
+              "url": "https://t.co/G3AFfUfo0I"
+            },
+            {
+              "display_url": "pic.x.com/G3AFfUfo0I",
+              "end": 94,
+              "expanded_url": "https://x.com/TeamRain_2024/status/2061584899090592198/photo/1",
+              "media_key": "3_2061584888592306176",
+              "start": 71,
+              "url": "https://t.co/G3AFfUfo0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061584899090592198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是芸光酱，正如你所见，我的账号被永久封禁了。😭😭😭大家能不能关注我的这个二代目新号，我也要开始互fo 巡回了😢，大家顺便帮我转个帖 https://t.co/G3AFfUfo0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "在线时间15:00～5:00\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2060380775804268560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 349,
+          "like_count": 836,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 483
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T11:39:20.000Z",
+        "description": "7年级|年龄党|26.4.7hrt|已炸柜|深柜ing|生在红旗下，长在春风里|🔪&💊 ❌\n谢谢你的关注！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "X.com/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://X.com/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/mCuwA6J9Yk"
+              }
+            ]
+          }
+        },
+        "id": "2048003423384010752",
+        "location": "湖北省潜江市",
+        "name": "芸光酱~ 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2048019765109653997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057099438477488128/bCxtNBwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 24,
+          "like_count": 630,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/mCuwA6J9Yk",
+        "username": "TeamRain_2024",
+        "verified": true
+      }
+    ]
+  }
+}

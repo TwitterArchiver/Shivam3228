@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2062971524299235819",
+    "created_at": "2026-06-05T18:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T19:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062971524299235819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2009492855262466051",
+          "start": 3,
+          "username": "BeckfordBl61271"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062971524299235819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062971348780302845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BeckfordBl61271: 哼哼哼啊啊啊啊为什么又限制我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2062971524299235819",
+        "created_at": "2026-06-05T18:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062971524299235819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2009492855262466051",
+              "start": 3,
+              "username": "BeckfordBl61271"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062971524299235819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062971348780302845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BeckfordBl61271: 哼哼哼啊啊啊啊为什么又限制我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009492855262466051",
+        "conversation_id": "2062971348780302845",
+        "created_at": "2026-06-05T18:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062971348780302845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062971348780302845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哼哼哼啊啊啊啊为什么又限制我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "寻回互fo\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2062195398660489469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 390,
+          "like_count": 1135,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 616
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T05:10:19.000Z",
+        "description": "耐药王还是\n联系我去找我tg\n@LIhua1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "LIhua1314"
+              }
+            ]
+          }
+        },
+        "id": "2009492855262466051",
+        "name": "猫三号机(我错了别再封了)",
+        "pinned_tweet_id": "2061193598025281555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059089775110635520/xC601_r-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 53,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 57
+        },
+        "username": "BeckfordBl61271",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2061147439399358576",
+    "created_at": "2026-05-31T18:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T19:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061150589938200627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033181107924123649",
+          "start": 0,
+          "username": "xingmianwuzhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061150589938200627",
+    "in_reply_to_user_id": "2033181107924123649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061150534669914517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingmianwuzhang 欧坤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2061147439399358576",
+        "created_at": "2026-05-31T18:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061150589938200627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033181107924123649",
+              "start": 0,
+              "username": "xingmianwuzhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061150589938200627",
+        "in_reply_to_user_id": "2033181107924123649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061150534669914517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingmianwuzhang 欧坤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033181107924123649",
+        "conversation_id": "2061147439399358576",
+        "created_at": "2026-05-31T18:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061150534669914517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061150534669914517",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061147439399358576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 还有好多细节没看清 能慢放吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "继续搞我吧\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2060380775804268560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 322,
+          "like_count": 627,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 356
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T13:59:04.000Z",
+        "description": "月亮代表我的心\nThe moon represents my heart",
+        "id": "2033181107924123649",
+        "location": "你看看你衣柜呢",
+        "name": "樽來Zen.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058954010191888385/M8nRcUfp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 37,
+          "like_count": 1755,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 538
+        },
+        "username": "xingmianwuzhang",
+        "verified": false
+      }
+    ]
+  }
+}

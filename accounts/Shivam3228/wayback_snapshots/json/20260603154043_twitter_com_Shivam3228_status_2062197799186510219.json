@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062197791724822528"
+      ]
+    },
+    "author_id": "1829867271592026112",
+    "conversation_id": "2062197799186510219",
+    "created_at": "2026-06-03T15:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T16:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062197799186510219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mw1CLVJkSz",
+          "end": 67,
+          "expanded_url": "https://x.com/Shivam3228/status/2062197799186510219/photo/1",
+          "media_key": "3_2062197791724822528",
+          "start": 44,
+          "url": "https://t.co/Mw1CLVJkSz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062197799186510219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢喵谢谢喵！高考加油（不是）🤤亲亲亲亲亲亲亲亲祝你学业进步顺顺利利呀喵！早点休息哦🩷 https://t.co/Mw1CLVJkSz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1087,
+        "media_key": "3_2062197791724822528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5l9zBaYAAWW_C.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062197791724822528"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "conversation_id": "2062197799186510219",
+        "created_at": "2026-06-03T15:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062197799186510219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mw1CLVJkSz",
+              "end": 67,
+              "expanded_url": "https://x.com/Shivam3228/status/2062197799186510219/photo/1",
+              "media_key": "3_2062197791724822528",
+              "start": 44,
+              "url": "https://t.co/Mw1CLVJkSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062197799186510219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢喵谢谢喵！高考加油（不是）🤤亲亲亲亲亲亲亲亲祝你学业进步顺顺利利呀喵！早点休息哦🩷 https://t.co/Mw1CLVJkSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "在线时间15:00～5:00\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2061781359342047285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 358,
+          "like_count": 1011,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 552
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

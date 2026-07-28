@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2059707900487225712",
+    "created_at": "2026-05-27T18:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059707900487225712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974218651474829312",
+          "start": 3,
+          "username": "Elther2778"
+        },
+        {
+          "end": 27,
+          "id": "1829867271592026112",
+          "start": 16,
+          "username": "Shivam3228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059707900487225712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059707810305245219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Elther2778: @Shivam3228 都是这样的，永远只会把问题怪在网络，这些人都是杀人犯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2059707900487225712",
+        "created_at": "2026-05-27T18:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059707900487225712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974218651474829312",
+              "start": 3,
+              "username": "Elther2778"
+            },
+            {
+              "end": 27,
+              "id": "1829867271592026112",
+              "start": 16,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059707900487225712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059707810305245219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Elther2778: @Shivam3228 都是这样的，永远只会把问题怪在网络，这些人都是杀人犯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974218651474829312",
+        "conversation_id": "2059572273582096435",
+        "created_at": "2026-05-27T18:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059707810305245219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059707810305245219",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059572273582096435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 都是这样的，永远只会把问题怪在网络，这些人都是杀人犯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Bourg-la-Reine, Île-de-France, France",
+              "geo": {
+                "coordinates": [
+                  2.31781,
+                  48.77888
+                ],
+                "type": "Point"
+              },
+              "locality": "Bourg-la-Reine",
+              "region": "Île-de-France",
+              "sub_region": "Département des Hauts-de-Seine"
+            }
+          ]
+        },
+        "description": "大号@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你身后",
+        "name": "7.霖（病娇中2）",
+        "pinned_tweet_id": "2058861278148673963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 145,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 76
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T21:03:07.000Z",
+        "description": "英国留学生17岁一枚，不嗑糖，非mtf，cd泛性恋。❤️ @TrikoLari78l 同好私我互fo喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "TrikoLari78l"
+              }
+            ]
+          }
+        },
+        "id": "1974218651474829312",
+        "location": "London, England",
+        "name": "Elther",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055405951591575552/SQtu-wPZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 179,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 661
+        },
+        "username": "Elther2778",
+        "verified": true
+      }
+    ]
+  }
+}

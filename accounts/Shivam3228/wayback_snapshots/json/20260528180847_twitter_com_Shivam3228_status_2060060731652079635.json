@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2060060731652079635",
+    "created_at": "2026-05-28T18:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060060731652079635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829867271592026112",
+          "start": 3,
+          "username": "Shivam3228"
+        },
+        {
+          "end": 22,
+          "id": "2059115250851749889",
+          "start": 16,
+          "username": "XMYXJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060060731652079635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060060720079978904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shivam3228: @XMYXJ 谢谢您的配合，本人已将所有带有您墙内uid的帖子删除，并且告知网友停止对您的攻击"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2060060731652079635",
+        "created_at": "2026-05-28T18:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060060731652079635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829867271592026112",
+              "start": 3,
+              "username": "Shivam3228"
+            },
+            {
+              "end": 22,
+              "id": "2059115250851749889",
+              "start": 16,
+              "username": "XMYXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060060731652079635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060060720079978904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shivam3228: @XMYXJ 谢谢您的配合，本人已将所有带有您墙内uid的帖子删除，并且告知网友停止对您的攻击"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2059882504203767992",
+        "created_at": "2026-05-28T18:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060060720079978904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2059115250851749889",
+              "start": 0,
+              "username": "XMYXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060060720079978904",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060037394502668630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XMYXJ 谢谢您的配合，本人已将所有带有您墙内uid的帖子删除，并且告知网友停止对您的攻击"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Bourg-la-Reine, Île-de-France, France",
+              "geo": {
+                "coordinates": [
+                  2.31781,
+                  48.77888
+                ],
+                "type": "Point"
+              },
+              "locality": "Bourg-la-Reine",
+              "region": "Île-de-France",
+              "sub_region": "Département des Hauts-de-Seine"
+            }
+          ]
+        },
+        "description": "大号@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你身后",
+        "name": "7.霖（病娇中2）",
+        "pinned_tweet_id": "2059924549207265777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 199,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 103
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T03:32:46.000Z",
+        "description": "",
+        "id": "2059115250851749889",
+        "name": "XMYXJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059115790520184832/ePfgFeug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 29,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "XMYXJ",
+        "verified": false
+      }
+    ]
+  }
+}

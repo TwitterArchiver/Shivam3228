@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2059933791444140202",
+    "created_at": "2026-05-28T09:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059933791444140202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ria8964kcw/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ria8964kcw/status/2059933498425929837",
+          "start": 4,
+          "url": "https://t.co/zhgTViE3z8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059933791444140202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059933498425929837",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你简中 https://t.co/zhgTViE3z8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2059933791444140202",
+        "created_at": "2026-05-28T09:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059933791444140202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ria8964kcw/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ria8964kcw/status/2059933498425929837",
+              "start": 4,
+              "url": "https://t.co/zhgTViE3z8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059933791444140202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059933498425929837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你简中 https://t.co/zhgTViE3z8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2059933498425929837",
+        "created_at": "2026-05-28T09:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059933498425929837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059933498425929837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "17岁吸毒人妖同性恋婊子16岁吸毒人妖同性恋婊子15岁吸毒人妖同性恋婊子14岁吸毒人妖同性恋婊子13岁吸毒人妖同性恋婊子12岁吸毒人妖同性恋婊子12岁吸毒人妖同性恋婊子11岁吸毒人妖同性恋婊子10岁吸毒人妖同性恋婊子9岁吸毒人妖同性恋婊子8岁吸毒人妖同性恋婊子精子吸毒人妖同性恋婊子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Bourg-la-Reine, Île-de-France, France",
+              "geo": {
+                "coordinates": [
+                  2.31781,
+                  48.77888
+                ],
+                "type": "Point"
+              },
+              "locality": "Bourg-la-Reine",
+              "region": "Île-de-France",
+              "sub_region": "Département des Hauts-de-Seine"
+            }
+          ]
+        },
+        "description": "大号@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你身后",
+        "name": "7.霖（病娇中2）",
+        "pinned_tweet_id": "2059924549207265777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 159,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 86
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=利亚 \n里推https://t.co/wDxQJbCEPA any pronouns\nenby，🏳️‍⚧️泛性恋🏳️‍🌈/金采源kim chaewon毒唯🐆🐯 /偶尔在互联网上释放善意 /彩虹友好🌈/看到就会回fo/爱玩烂梗恶俗无底线请注意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riafixcom?s=21",
+                "end": 30,
+                "expanded_url": "https://x.com/riafixcom?s=21",
+                "start": 7,
+                "url": "https://t.co/wDxQJbCEPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ria8964kcw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ria8964kcw",
+                "start": 0,
+                "url": "https://t.co/kiiEbM5iMJ"
+              }
+            ]
+          }
+        },
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "🇰🇵骟爹拴母高手利亚🐊🇰🇭（特吕弗的转世灵童）我屌的地方👉🍆全可飞✈️（私处好痒）",
+        "pinned_tweet_id": "2043932097212195254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504883213684736/-eX4OFjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 294,
+          "like_count": 6714,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 3464
+        },
+        "url": "https://t.co/kiiEbM5iMJ",
+        "username": "Ria8964kcw",
+        "verified": false
+      }
+    ]
+  }
+}

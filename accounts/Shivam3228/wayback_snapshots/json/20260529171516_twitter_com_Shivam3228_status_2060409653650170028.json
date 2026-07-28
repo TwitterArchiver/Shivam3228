@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2060409653650170028",
+    "created_at": "2026-05-29T17:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060409653650170028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060335795576483840",
+          "start": 3,
+          "username": "Shenren_4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060409653650170028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060341971714191759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shenren_4: 诶不是我怎么老是被封啊😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2060409653650170028",
+        "created_at": "2026-05-29T17:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060409653650170028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060335795576483840",
+              "start": 3,
+              "username": "Shenren_4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060409653650170028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060341971714191759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shenren_4: 诶不是我怎么老是被封啊😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060335795576483840",
+        "conversation_id": "2060341971714191759",
+        "created_at": "2026-05-29T12:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060341971714191759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060341971714191759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶不是我怎么老是被封啊😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "继续搞我吧\n共号@Melody_0v0_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Melody_0v0_"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2060380775804268560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 234,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 177
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T12:23:28.000Z",
+        "description": "话说那个偷饮料的神人Xyn怎么老是被封?",
+        "id": "2060335795576483840",
+        "name": "Zaha_NO.4🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060337981798625280/Qb7WBCZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 53,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "Shenren_4",
+        "verified": false
+      }
+    ]
+  }
+}

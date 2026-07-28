@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2061376222001803615",
+    "created_at": "2026-06-01T12:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T13:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061418356419461513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999040656942223360",
+          "start": 0,
+          "username": "ewan114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061418356419461513",
+    "in_reply_to_user_id": "1999040656942223360",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061417755681943581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ewan114514 👻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2061376222001803615",
+        "created_at": "2026-06-01T12:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061418356419461513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999040656942223360",
+              "start": 0,
+              "username": "ewan114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061418356419461513",
+        "in_reply_to_user_id": "1999040656942223360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061417755681943581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ewan114514 👻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999040656942223360",
+        "conversation_id": "2061376222001803615",
+        "created_at": "2026-06-01T12:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061417755681943581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061417755681943581",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061376222001803615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 我们都是要死的，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "在线时间15:00～5:00\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2060380775804268560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 334,
+          "like_count": 790,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 462
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T08:57:00.000Z",
+        "description": "𝓜𝓮𝓻𝓻𝔂 𝓒𝓱𝓻𝓲𝓼𝓽𝓶𝓪𝓼, 𝓜𝓻. 𝓛𝓪𝔀𝓻𝓮𝓷𝓬𝓮  |  抬头望见参宿四，心中思念springwind",
+        "id": "1999040656942223360",
+        "location": "第六病室",
+        "name": "伊万(absolute",
+        "pinned_tweet_id": "2042905392410431801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042862844606312448/skmkLiUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 199,
+          "like_count": 12764,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 620
+        },
+        "username": "ewan114514",
+        "verified": false
+      }
+    ]
+  }
+}

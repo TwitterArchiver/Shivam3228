@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2061669631543390403",
+    "created_at": "2026-06-02T04:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061669631543390403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1547310338328080384",
+          "start": 3,
+          "username": "gaoliang0808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061669631543390403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061357482853994681",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gaoliang0808: 希望大家能好好看看图片 我的pr从来就没有出过事情\n澄清一下那些造谣我和slow是团伙诈骗卖pr和玉米的事\n1.明明他是你群管你说你们不是一伙的？\n答:首先他说说看看能不能付钱当管理 我收了他管理费才让他上的\n2.为什么他压我们那么多pr和玉…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061357479242657792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtptLFacAAnCC5.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061357479519461377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtptMHaIAEqmDt.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061357479523721216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtptMIbIAACFKg.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061357480572239872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtptQCaQAA_EAA.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2061669631543390403",
+        "created_at": "2026-06-02T04:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061669631543390403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1547310338328080384",
+              "start": 3,
+              "username": "gaoliang0808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061669631543390403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061357482853994681",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gaoliang0808: 希望大家能好好看看图片 我的pr从来就没有出过事情\n澄清一下那些造谣我和slow是团伙诈骗卖pr和玉米的事\n1.明明他是你群管你说你们不是一伙的？\n答:首先他说说看看能不能付钱当管理 我收了他管理费才让他上的\n2.为什么他压我们那么多pr和玉…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061357479242657792",
+            "3_2061357479519461377",
+            "3_2061357479523721216",
+            "3_2061357480572239872"
+          ]
+        },
+        "author_id": "1547310338328080384",
+        "conversation_id": "2061357482853994681",
+        "created_at": "2026-06-01T08:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061357482853994681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PM17IHDh0O",
+              "end": 175,
+              "expanded_url": "https://x.com/gaoliang0808/status/2061357482853994681/photo/1",
+              "media_key": "3_2061357479242657792",
+              "start": 152,
+              "url": "https://t.co/PM17IHDh0O"
+            },
+            {
+              "display_url": "pic.x.com/PM17IHDh0O",
+              "end": 175,
+              "expanded_url": "https://x.com/gaoliang0808/status/2061357482853994681/photo/1",
+              "media_key": "3_2061357479519461377",
+              "start": 152,
+              "url": "https://t.co/PM17IHDh0O"
+            },
+            {
+              "display_url": "pic.x.com/PM17IHDh0O",
+              "end": 175,
+              "expanded_url": "https://x.com/gaoliang0808/status/2061357482853994681/photo/1",
+              "media_key": "3_2061357479523721216",
+              "start": 152,
+              "url": "https://t.co/PM17IHDh0O"
+            },
+            {
+              "display_url": "pic.x.com/PM17IHDh0O",
+              "end": 175,
+              "expanded_url": "https://x.com/gaoliang0808/status/2061357482853994681/photo/1",
+              "media_key": "3_2061357480572239872",
+              "start": 152,
+              "url": "https://t.co/PM17IHDh0O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061357482853994681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 439,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "希望大家能好好看看图片 我的pr从来就没有出过事情\n澄清一下那些造谣我和slow是团伙诈骗卖pr和玉米的事\n1.明明他是你群管你说你们不是一伙的？\n答:首先他说说看看能不能付钱当管理 我收了他管理费才让他上的\n2.为什么他压我们那么多pr和玉米没有发\n答:我的那份玉米他也没有发我 一直说资金周转给我进 https://t.co/PM17IHDh0O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "在线时间15:00～5:00\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2060380775804268560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 350,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 487
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T20:02:05.000Z",
+        "description": "这里是道心 有卖烟 是oder。可互fo 喜欢的我会回fo 对电子烟有需要可联系我呀 戒药中 互fo直关就可有的时候没看到就私  转帖点点赞就行啦 花粉聚集地https://t.co/5hrXf0TC6k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hinakofor1",
+                "end": 102,
+                "expanded_url": "https://t.me/hinakofor1",
+                "start": 79,
+                "url": "https://t.co/5hrXf0TC6k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dddlg520",
+                "end": 23,
+                "expanded_url": "https://t.me/dddlg520",
+                "start": 0,
+                "url": "https://t.co/Au75Hgnn6Q"
+              }
+            ]
+          }
+        },
+        "id": "1547310338328080384",
+        "location": "卢布朗咖啡厅",
+        "name": "破滅道心（小花导）",
+        "pinned_tweet_id": "2034336433172086904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018955454953766912/ZTCWEOYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 368,
+          "like_count": 1771,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 230
+        },
+        "url": "https://t.co/Au75Hgnn6Q",
+        "username": "gaoliang0808",
+        "verified": false
+      }
+    ]
+  }
+}

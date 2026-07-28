@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2073999468836634916",
+    "created_at": "2026-07-06T08:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074050526128541879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757603703811371008",
+          "start": 0,
+          "username": "11andpr89648964"
+        },
+        {
+          "end": 33,
+          "id": "1927025054203715584",
+          "start": 17,
+          "username": "pr80_NightHaven"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074050526128541879",
+    "in_reply_to_user_id": "1757603703811371008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074044591574241457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11andpr89648964 @pr80_NightHaven 11是我麻麻🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2073999468836634916",
+        "created_at": "2026-07-06T08:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074050526128541879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            },
+            {
+              "end": 33,
+              "id": "1927025054203715584",
+              "start": 17,
+              "username": "pr80_NightHaven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074050526128541879",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074044591574241457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 @pr80_NightHaven 11是我麻麻🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2073999468836634916",
+        "created_at": "2026-07-06T08:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074044591574241457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1927025054203715584",
+              "start": 0,
+              "username": "pr80_NightHaven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074044591574241457",
+        "in_reply_to_user_id": "1927025054203715584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073999468836634916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80_NightHaven 啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "这里是霖【寻回推u】\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n生活在互联网！查成分回fo/我是低龄糖逼大傻福，十分抱歉！\n宇宙级严重失眠 -12现役初中生\n小号@Paramjitt\n牛马💊@AminoXx_killer \n负能碎碎念@yumumu_msknb\n欧金金@niconekkod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "Paramjitt"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2068570914644779519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068272596580503552/tfkvYV74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 480,
+          "like_count": 2142,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1126
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 969,
+          "like_count": 190,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 2043
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T15:32:44.000Z",
+        "description": "https://t.co/HsCioOgdzr\nhttps://t.co/F6fN8D2oJ9\n永夜安港是一个致力于为OD者交友、陪伴、减害所建立的社区，真正包容彼此、相互理解的“温柔”社群。\n会回关，目前官推由wiki主 @LuluvWiki 运营，如果他对漂亮大姐姐评论妈妈，属于正常环节，不代表永夜安港官方立场！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 112,
+                "username": "LuluvWiki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/HsCioOgdzr"
+              },
+              {
+                "display_url": "pr80.net",
+                "end": 47,
+                "expanded_url": "https://pr80.net",
+                "start": 24,
+                "url": "https://t.co/F6fN8D2oJ9"
+              }
+            ]
+          }
+        },
+        "id": "1927025054203715584",
+        "location": "NightHaven",
+        "name": "⚓️永夜安港 pr80.net",
+        "pinned_tweet_id": "2071982831732142419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069981304528265216/T45W7wQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 336,
+          "like_count": 117,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "pr80_NightHaven",
+        "verified": true
+      }
+    ]
+  }
+}

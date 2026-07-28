@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2062929191218360584",
+    "created_at": "2026-06-06T02:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063091067495616921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "729407854973755392",
+          "start": 0,
+          "username": "Arthur2e5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063091067495616921",
+    "in_reply_to_user_id": "729407854973755392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063090798087008607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arthur2e5 🤓展示财力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2062929191218360584",
+        "created_at": "2026-06-06T02:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063091067495616921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "729407854973755392",
+              "start": 0,
+              "username": "Arthur2e5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063091067495616921",
+        "in_reply_to_user_id": "729407854973755392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063090798087008607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arthur2e5 🤓展示财力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "729407854973755392",
+        "conversation_id": "2062929191218360584",
+        "created_at": "2026-06-06T02:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063090798087008607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063090798087008607",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062929191218360584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 感觉用25的原研做200大片的事情有点富"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "大号@Yijin_0v0\n精分 双向 ADHD 不定时zs\n很温良的一个人，欢迎互动🤤🤤\n如果你爱我请给我打钱orz🙏🏻🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2062195398660489469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 394,
+          "like_count": 1147,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 620
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-08T20:29:19.000Z",
+        "description": "#REDIRECT @Artoria2e5 | A2-Legacy",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "REDIRECT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Artoria2e5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.me/arthur2e5",
+                "end": 23,
+                "expanded_url": "https://about.me/arthur2e5",
+                "start": 0,
+                "url": "https://t.co/p9bIjR9o4d"
+              }
+            ]
+          }
+        },
+        "id": "729407854973755392",
+        "location": "Nowhere",
+        "name": "Mingye Wang 0.97",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/729408171622707200/I1mzuiMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 113,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/p9bIjR9o4d",
+        "username": "Arthur2e5",
+        "verified": false
+      }
+    ]
+  }
+}

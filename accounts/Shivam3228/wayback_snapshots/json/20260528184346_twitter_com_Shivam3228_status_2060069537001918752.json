@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2060012438465229165",
+    "created_at": "2026-05-28T18:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060069537001918752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2057363646423117824",
+          "start": 0,
+          "username": "12sygdsbi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060069537001918752",
+    "in_reply_to_user_id": "2057363646423117824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060012438465229165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@12sygdsbi 橘猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2060012438465229165",
+        "created_at": "2026-05-28T18:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060069537001918752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2057363646423117824",
+              "start": 0,
+              "username": "12sygdsbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060069537001918752",
+        "in_reply_to_user_id": "2057363646423117824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060012438465229165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@12sygdsbi 橘猫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057363646423117824",
+        "conversation_id": "2060012438465229165",
+        "created_at": "2026-05-28T14:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060012438465229165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060012438465229165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点想养只猫。求推荐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Bourg-la-Reine, Île-de-France, France",
+              "geo": {
+                "coordinates": [
+                  2.31781,
+                  48.77888
+                ],
+                "type": "Point"
+              },
+              "locality": "Bourg-la-Reine",
+              "region": "Île-de-France",
+              "sub_region": "Département des Hauts-de-Seine"
+            }
+          ]
+        },
+        "description": "大号@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你身后",
+        "name": "7.霖（病娇中2）",
+        "pinned_tweet_id": "2059924549207265777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 200,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 104
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T07:32:40.000Z",
+        "description": "在无尽的烟雾窒息中达到羞耻与高潮",
+        "id": "2057363646423117824",
+        "name": "12",
+        "pinned_tweet_id": "2059466422326345875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059447896161079296/KtbiO223_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 153,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 310
+        },
+        "username": "12sygdsbi",
+        "verified": false
+      }
+    ]
+  }
+}

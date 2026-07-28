@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2062980674655797592",
+    "created_at": "2026-06-05T19:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T20:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062980674655797592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055521229625262080",
+          "start": 3,
+          "username": "ynxxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062980674655797592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062971979557421097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ynxxx_jjkk: 我怀疑最近大家的大规模被封号都是有人恶意举报的，说不定就是那一堆晶？还是某些健全人没事做啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2062980674655797592",
+        "created_at": "2026-06-05T19:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T20:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062980674655797592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055521229625262080",
+              "start": 3,
+              "username": "ynxxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062980674655797592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062971979557421097",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ynxxx_jjkk: 我怀疑最近大家的大规模被封号都是有人恶意举报的，说不定就是那一堆晶？还是某些健全人没事做啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055521229625262080",
+        "conversation_id": "2062971979557421097",
+        "created_at": "2026-06-05T18:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062971979557421097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062971979557421097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我怀疑最近大家的大规模被封号都是有人恶意举报的，说不定就是那一堆晶？还是某些健全人没事做啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "寻回互fo\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2062195398660489469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 393,
+          "like_count": 1136,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 617
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T05:30:39.000Z",
+        "description": "我的病历本。\n我没招了，我两个号都被封了，\n这是我的3.0了\n@xxx_jjkk\n@yn_xxxjkjk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "xxx_jjkk"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "yn_xxxjkjk"
+              }
+            ]
+          }
+        },
+        "id": "2055521229625262080",
+        "name": "旖旎3.0",
+        "pinned_tweet_id": "2062970664160809111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055521656643502080/L8pEAvzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 115,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 25
+        },
+        "username": "ynxxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

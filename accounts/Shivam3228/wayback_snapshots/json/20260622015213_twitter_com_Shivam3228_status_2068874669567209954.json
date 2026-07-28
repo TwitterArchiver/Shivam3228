@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2068874669567209954",
+    "created_at": "2026-06-22T01:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T02:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068874669567209954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1687566770763071489",
+          "start": 3,
+          "username": "Olebe179131"
+        },
+        {
+          "end": 30,
+          "id": "1858102501381414912",
+          "start": 17,
+          "username": "zaofushijian"
+        },
+        {
+          "end": 42,
+          "id": "1829867271592026112",
+          "start": 31,
+          "username": "Shivam3228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068874669567209954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068857964493160917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Olebe179131: @zaofushijian @Shivam3228 这期是我定制的水仙🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2068874669567209954",
+        "created_at": "2026-06-22T01:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068874669567209954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1687566770763071489",
+              "start": 3,
+              "username": "Olebe179131"
+            },
+            {
+              "end": 30,
+              "id": "1858102501381414912",
+              "start": 17,
+              "username": "zaofushijian"
+            },
+            {
+              "end": 42,
+              "id": "1829867271592026112",
+              "start": 31,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068874669567209954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068857964493160917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Olebe179131: @zaofushijian @Shivam3228 这期是我定制的水仙🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687566770763071489",
+        "conversation_id": "2068689103772860581",
+        "created_at": "2026-06-22T00:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T01:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068857964493160917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858102501381414912",
+              "start": 0,
+              "username": "zaofushijian"
+            },
+            {
+              "end": 25,
+              "id": "1829867271592026112",
+              "start": 14,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068857964493160917",
+        "in_reply_to_user_id": "1858102501381414912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068689945968234683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaofushijian @Shivam3228 这期是我定制的水仙🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "【寻回互fo】\n📍广州/🇯🇵/12-09-17/IB牛马国际生。\n精神病碎碎念清水推 电子宠物\n已上岸躺尸中zz🥰（剧烈啃英语。）\n热爱互动但被带口球……🚬\n小号@Paramjitt\n牛马💊@idris21000\n负能碎碎念@yumumu_msknb\n欧金金@niconekkod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "Paramjitt"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "idris21000"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2068570914644779519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068272596580503552/tfkvYV74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 453,
+          "like_count": 1639,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 873
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/精神不稳定/百合厨/二次元/已老实各位老公老婆主人求求了不要举报我喵！/玩很多二游:方舟(蒂厨)终末地(汤汤厨)重返未来1999(百合全磕，笔友组99)崩铁(阿那克萨戈拉斯单推，夏雅99)还玩蔚蓝档案和碧蓝航线\n欢迎互fo",
+        "id": "1687566770763071489",
+        "name": "多柔比星(RIP)",
+        "pinned_tweet_id": "2045366449938878769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064394042474127360/d50sSA2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 564,
+          "like_count": 29808,
+          "listed_count": 0,
+          "media_count": 999,
+          "tweet_count": 3437
+        },
+        "url": "",
+        "username": "Olebe179131",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T10:59:04.000Z",
+        "description": "是个男的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zaofushijian",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zaofushijian",
+                "start": 0,
+                "url": "https://t.co/ebFKJdXhsi"
+              }
+            ]
+          }
+        },
+        "id": "1858102501381414912",
+        "name": "天地一家大爱盟盟主🍥",
+        "pinned_tweet_id": "2061884741323018749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032824581589970948/U7rV0Nbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 204,
+          "like_count": 453,
+          "listed_count": 2,
+          "media_count": 1325,
+          "tweet_count": 8753
+        },
+        "url": "https://t.co/ebFKJdXhsi",
+        "username": "zaofushijian",
+        "verified": false
+      }
+    ]
+  }
+}

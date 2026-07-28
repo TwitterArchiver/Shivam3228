@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2059578803274633704",
+    "created_at": "2026-05-27T10:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059581231998890308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1687566770763071489",
+          "start": 0,
+          "username": "Olebe179131"
+        },
+        {
+          "end": 28,
+          "id": "2043952988557803520",
+          "start": 13,
+          "username": "tngxngxng13171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059581231998890308",
+    "in_reply_to_user_id": "1687566770763071489",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059578803274633704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Olebe179131 @tngxngxng13171"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2059578748903776256",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJUX9cNaYAAlIV_.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJUX9cNaYAAlIV_.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2059578803274633704",
+        "created_at": "2026-05-27T10:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059581231998890308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687566770763071489",
+              "start": 0,
+              "username": "Olebe179131"
+            },
+            {
+              "end": 28,
+              "id": "2043952988557803520",
+              "start": 13,
+              "username": "tngxngxng13171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059581231998890308",
+        "in_reply_to_user_id": "1687566770763071489",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059578803274633704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olebe179131 @tngxngxng13171"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2059578748903776256"
+          ]
+        },
+        "author_id": "1687566770763071489",
+        "conversation_id": "2059578803274633704",
+        "created_at": "2026-05-27T10:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059578803274633704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UITyf098m9",
+              "end": 28,
+              "expanded_url": "https://x.com/Olebe179131/status/2059578803274633704/photo/1",
+              "media_key": "16_2059578748903776256",
+              "start": 5,
+              "url": "https://t.co/UITyf098m9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059578803274633704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁出pr https://t.co/UITyf098m9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "大号@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你身后",
+        "name": "7.霖（病娇中2）",
+        "pinned_tweet_id": "2058861278148673963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 106,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 56
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/精神不稳定/百合厨/二次元/已老实各位老公老婆主人求求了不要举报我喵！/玩很多二游:方舟(蒂厨)终末地(汤汤厨)重返未来1999(百合全磕，笔友组99)崩铁(阿那克萨戈拉斯单推，夏雅99)还玩蔚蓝档案和碧蓝航线\n欢迎互fo",
+        "id": "1687566770763071489",
+        "name": "多柔比星",
+        "pinned_tweet_id": "2045366449938878769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040796432937193472/o7B7VSgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 558,
+          "like_count": 28552,
+          "listed_count": 0,
+          "media_count": 986,
+          "tweet_count": 3392
+        },
+        "username": "Olebe179131",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:22:50.000Z",
+        "description": "我是星雫瑞星/互聯網的墮天使/白騎士綜合征/地雷/病弱/抖M/戀痛/生理雙性別/無性別主義者/互fo寻回中... \n\n主要遊玩prsk/推し💗宵崎奏、曉山瑞希、望月穗波、日野森志步/團體 推しLeoneed&25時/會進行一些相關角色的cosplay",
+        "id": "2043952988557803520",
+        "location": "Hong Kong",
+        "name": "白石羅塞塔",
+        "pinned_tweet_id": "2055320120755695896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048446214245691392/lQgtgY8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 187,
+          "like_count": 4148,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 507
+        },
+        "username": "tngxngxng13171",
+        "verified": false
+      }
+    ]
+  }
+}

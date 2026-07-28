@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2062806044762644893",
+    "created_at": "2026-06-05T07:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T08:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062806044762644893"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "七号雨木木’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1dGYl…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1dGYllDaMpEKX",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2062806046062891008/RnNvSsLc?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2062806046062891008/RnNvSsLc?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 玩原神",
+          "unwound_url": "https://twitter.com/i/spaces/1dGYllDaMpEKX/peek",
+          "url": "https://t.co/STf9nAteuF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062806044762644893",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/STf9nAteuF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2062806044762644893",
+        "created_at": "2026-06-05T07:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062806044762644893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "七号雨木木’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1dGYl…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1dGYllDaMpEKX",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2062806046062891008/RnNvSsLc?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062806046062891008/RnNvSsLc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 玩原神",
+              "unwound_url": "https://twitter.com/i/spaces/1dGYllDaMpEKX/peek",
+              "url": "https://t.co/STf9nAteuF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062806044762644893",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/STf9nAteuF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "寻回互fo\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2062195398660489469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 379,
+          "like_count": 1090,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 594
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

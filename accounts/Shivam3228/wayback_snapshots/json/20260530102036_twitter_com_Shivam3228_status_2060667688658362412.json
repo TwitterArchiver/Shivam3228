@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2060667688658362412",
+    "created_at": "2026-05-30T10:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060667688658362412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1975129821111074816",
+          "start": 3,
+          "username": "woaiuai0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060667688658362412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060666702942318698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woaiuai0721: 我想要空间，你们谁看得见我吗，你们谁懂我吗，你们谁，不对不对。我只剩你们了，我不能，不能，，绝对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2060667688658362412",
+        "created_at": "2026-05-30T10:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060667688658362412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1975129821111074816",
+              "start": 3,
+              "username": "woaiuai0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060667688658362412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060666702942318698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woaiuai0721: 我想要空间，你们谁看得见我吗，你们谁懂我吗，你们谁，不对不对。我只剩你们了，我不能，不能，，绝对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975129821111074816",
+        "conversation_id": "2060666176263565799",
+        "created_at": "2026-05-30T10:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060666702942318698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060666702942318698",
+        "in_reply_to_user_id": "1975129821111074816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060666486994382953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想要空间，你们谁看得见我吗，你们谁懂我吗，你们谁，不对不对。我只剩你们了，我不能，不能，，绝对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "继续搞我吧\n共号@Melody_0v0_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Melody_0v0_"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2060380775804268560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 265,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 190
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T09:24:02.000Z",
+        "description": "11年初二生，大家可以叫我朱雨辰，想要交朋友\nip：浙江",
+        "id": "1975129821111074816",
+        "location": "低頭看看",
+        "name": "朱雨辰牛逼",
+        "pinned_tweet_id": "2058159466319876141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040900649588768769/fUXi9OrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 115,
+          "like_count": 6018,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1514
+        },
+        "username": "woaiuai0721",
+        "verified": false
+      }
+    ]
+  }
+}

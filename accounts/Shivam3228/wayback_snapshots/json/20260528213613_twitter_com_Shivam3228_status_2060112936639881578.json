@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1829867271592026112",
+    "conversation_id": "2060112936639881578",
+    "created_at": "2026-05-28T21:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T22:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060112936639881578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1969968959534530560",
+          "start": 3,
+          "username": "sincessamagica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060112936639881578",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059870119141245225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sincessamagica: Made that Ho-mura Sayak-a on Ma-doka until she call me Mami 💪😎🔥💯✌️😤 Kyoko *EXTREMELY LOUD INCORRECT BUZZER SOUND* https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_2059870112912646144",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJYg9DuaIAAc4sd.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJYg9DuaIAAc4sd.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2060112936639881578",
+        "created_at": "2026-05-28T21:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T22:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060112936639881578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1969968959534530560",
+              "start": 3,
+              "username": "sincessamagica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060112936639881578",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059870119141245225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sincessamagica: Made that Ho-mura Sayak-a on Ma-doka until she call me Mami 💪😎🔥💯✌️😤 Kyoko *EXTREMELY LOUD INCORRECT BUZZER SOUND* https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2059870112912646144"
+          ]
+        },
+        "author_id": "1969968959534530560",
+        "conversation_id": "2059870119141245225",
+        "created_at": "2026-05-28T05:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059870119141245225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yPUbvrupKU",
+              "end": 137,
+              "expanded_url": "https://x.com/sincessamagica/status/2059870119141245225/photo/1",
+              "media_key": "16_2059870112912646144",
+              "start": 114,
+              "url": "https://t.co/yPUbvrupKU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059870119141245225",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 6447,
+          "like_count": 666,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "Made that Ho-mura Sayak-a on Ma-doka until she call me Mami 💪😎🔥💯✌️😤 Kyoko *EXTREMELY LOUD INCORRECT BUZZER SOUND* https://t.co/yPUbvrupKU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Bourg-la-Reine, Île-de-France, France",
+              "geo": {
+                "coordinates": [
+                  2.31781,
+                  48.77888
+                ],
+                "type": "Point"
+              },
+              "locality": "Bourg-la-Reine",
+              "region": "Île-de-France",
+              "sub_region": "Département des Hauts-de-Seine"
+            }
+          ]
+        },
+        "description": "大号@Kuromi_ooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Kuromi_ooooo"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你身后",
+        "name": "7.霖（病娇中2）",
+        "pinned_tweet_id": "2059924549207265777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 206,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 129
+        },
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T03:36:26.000Z",
+        "description": "22yo darkwoke degenerate satanist hedonist himejoshi girl ⛧ 💜I LOVE @gleepglorpmura!!!💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "gleepglorpmura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sincessa.straw.page",
+                "end": 23,
+                "expanded_url": "http://sincessa.straw.page",
+                "start": 0,
+                "url": "https://t.co/fx4b7tDNld"
+              }
+            ]
+          }
+        },
+        "id": "1969968959534530560",
+        "location": "Chamber of Light (光の間)",
+        "name": "SIN 𖤐",
+        "pinned_tweet_id": "2024102800683040896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057810502244618240/vVgO0K5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 1123,
+          "like_count": 86974,
+          "listed_count": 0,
+          "media_count": 1819,
+          "tweet_count": 11166
+        },
+        "url": "https://t.co/fx4b7tDNld",
+        "username": "sincessamagica",
+        "verified": false
+      }
+    ]
+  }
+}
