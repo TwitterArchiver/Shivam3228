@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081823006540865536"
+      ],
+      "media_source_tweet_id": [
+        "2081823082860388587"
+      ]
+    },
+    "author_id": "1829867271592026112",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081824049089667520",
+    "created_at": "2026-07-27T19:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T20:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081824049089667520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624337198765178881",
+          "start": 3,
+          "username": "niconekkod"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W7P6oyh9Wa",
+          "end": 51,
+          "expanded_url": "https://x.com/niconekkod/status/2081823082860388587/video/1",
+          "media_key": "13_2081823006540865536",
+          "start": 28,
+          "url": "https://t.co/W7P6oyh9Wa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081824049089667520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081823082860388587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niconekkod: 笑死我了\n\n中国人能飞 https://t.co/W7P6oyh9Wa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27331,
+        "height": 1280,
+        "media_key": "13_2081823006540865536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081823006540865536/img/sxoeWXfzZvA1MASd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081823006540865536/vid/avc1/320x690/FrCY2eneNGJvQq-i.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081823006540865536/vid/avc1/480x1036/OFFhZaqZt70gXS_r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081823006540865536/vid/avc1/592x1280/1fqrAYO5qDibiKam.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081823006540865536/pl/TO28jZrZk4Eel9cg.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081823006540865536"
+          ]
+        },
+        "author_id": "1624337198765178881",
+        "conversation_id": "2081823082860388587",
+        "created_at": "2026-07-27T19:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081823082860388587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W7P6oyh9Wa",
+              "end": 35,
+              "expanded_url": "https://x.com/niconekkod/status/2081823082860388587/video/1",
+              "media_key": "13_2081823006540865536",
+              "start": 12,
+              "url": "https://t.co/W7P6oyh9Wa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081823082860388587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了\n\n中国人能飞 https://t.co/W7P6oyh9Wa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081823006540865536"
+          ],
+          "media_source_tweet_id": [
+            "2081823082860388587"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081824049089667520",
+        "created_at": "2026-07-27T19:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081824049089667520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624337198765178881",
+              "start": 3,
+              "username": "niconekkod"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W7P6oyh9Wa",
+              "end": 51,
+              "expanded_url": "https://x.com/niconekkod/status/2081823082860388587/video/1",
+              "media_key": "13_2081823006540865536",
+              "start": 28,
+              "url": "https://t.co/W7P6oyh9Wa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081824049089667520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081823082860388587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niconekkod: 笑死我了\n\n中国人能飞 https://t.co/W7P6oyh9Wa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "跑路了\n【寻回推u】\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n生活在互联网！查成分回fo/我是低龄糖逼大傻福，十分抱歉！\n宇宙级严重失眠 -12现役初中生\n小号@wozubbdelyta \n牛马💊@AminoXx_killer \n负能碎碎念@yumumu_msknb\n欧金金@niconekkod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "wozubbdelyta"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 129,
+                "start": 116,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2081033561990467978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074837990430662657/8X-WmDYs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 495,
+          "like_count": 2156,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1171
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T09:19:19.000Z",
+        "description": "这里是 niconeko 的第五个号\nins 同 iD\n顺男\n14岁傻逼低龄做题区\n爱好喵斯 碎碎念\n很想被人在意，请随时打扰我，我很乐意听任何人倾诉\n割手 偶尔压力太大会od\n坐标CQ主城\n欢迎互 fo\n我的鼠鼠：@Shivam3228🐭 @wozubbdelyta",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 134,
+                "start": 121,
+                "username": "wozubbdelyta"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/niconekkod",
+                "end": 23,
+                "expanded_url": "https://t.me/niconekkod",
+                "start": 0,
+                "url": "https://t.co/Sxu7tx5w0g"
+              }
+            ]
+          }
+        },
+        "id": "1624337198765178881",
+        "location": "CKG",
+        "name": "nikonekko",
+        "pinned_tweet_id": "2066524499240235409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068126961294323712/SCEUmmkC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 89,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/Sxu7tx5w0g",
+        "username": "niconekkod",
+        "verified": false
+      }
+    ]
+  }
+}
